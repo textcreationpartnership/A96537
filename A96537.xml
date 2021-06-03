@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A help for the poor who are visited with the plague: to be communicated to them by the rich or, by any pious Christian, whose bowels of compassion are moved towards them, in the apprehension of their comfortless condition, and the great danger of their dying in their sins. Consisting of two parts. The first, shewing them their duty and concernment in this condition. The second, exhibiting certain forms of meditation, prayer and praise, suited to the beginning, continuance and issue of their visitation. Both composed out of compassion to the poor, who in this contagious sickness want the benefit of a spiritual physician (a wise and able minister to instruct them, and pray with them:) and designed to be a help and means to save their souls: ... By Thomas Willes, late minister of Shadwell.</title>
+            <author>Willis, Thomas, 1619 or 20-1692.</author>
+         </titleStmt>
+         <extent>Approx. 130 KB of XML-encoded text transcribed from 43 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96537</idno><idno type="EEBO-CITATION">99896064</idno>
+  <idno type="VID">153758</idno>
+  <idno type="EEBO-PROQUEST">2240915640</idno>
+  
+            <idno type="STC">Wing W2307A</idno>
+            <idno type="STC">ESTC R230886</idno>
+            <idno type="PROQUEST">99896064</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99896064e"/>
+            <note>(EEBO-TCP ; phase 2, no. A96537)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153758)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2377:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A help for the poor who are visited with the plague: to be communicated to them by the rich or, by any pious Christian, whose bowels of compassion are moved towards them, in the apprehension of their comfortless condition, and the great danger of their dying in their sins. Consisting of two parts. The first, shewing them their duty and concernment in this condition. The second, exhibiting certain forms of meditation, prayer and praise, suited to the beginning, continuance and issue of their visitation. Both composed out of compassion to the poor, who in this contagious sickness want the benefit of a spiritual physician (a wise and able minister to instruct them, and pray with them:) and designed to be a help and means to save their souls: ... By Thomas Willes, late minister of Shadwell.</title>
+                  <author>Willis, Thomas, 1619 or 20-1692.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition corrected and enlarged.</edition>
+               </editionStmt>
+               <extent>[20], 59, [1] p. : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>printed for Peter Parker in Popes-head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Frontis = ill.</note>
+                  <note>With a final advertisement page.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian literature --  Early works to 1800.</term>
+               <term type="topical_term">Poor --  Services for --  England --  Early works to 1800.</term>
+               <term type="topical_term">Plague --  England --  Early works to 1800.</term>
+               <term type="topical_term">Salvation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:153758:1"/>
+            <pb facs="tcp:153758:1"/>
+            <pb facs="tcp:153758:2"/>
+            <pb facs="tcp:153758:2"/>
+            <pb facs="tcp:153758:3"/>
+            <p>
+               <figure>
+                  <figDesc>allegory of the plague</figDesc>
+                  <p>A HELP for the POOR, IN TIME of the PLAGUE.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:153758:3"/>
+            <p>A Help for the Poor Who are visited with the PLAGUE: TO BE Communicated to them by the Rich, OR, By any pious Christian, whose bowels of Com<g ref="char:EOLhyphen"/>passion are moved towards them, in the apprehension of their comfortless Condition, and the great Danger of their dying in their Sins.</p>
+            <p>Consisting of Two PARTS.
+<list>
+                  <item>The First, Shewing them their Duty and Concern<g ref="char:EOLhyphen"/>ment in this Condition.</item>
+                  <item>The Second, Exhibiting certain forms of Meditation' Prayer and Praise, suited to the Beginning, Conti<g ref="char:EOLhyphen"/>nuance and Issue of their Visitation.</item>
+               </list>
+            </p>
+            <p>BOTH Composed out of Compassion to the Poor, who in this contagious Sickness want the benefit of a Spiri<g ref="char:EOLhyphen"/>tual Physician (a wise and able Minister to instruct them, and pray with them:) and designed to be a Help and Means to save their Souls: And therefore directing them so to demean themselves under Gods Visitation, that though their bodies should perish, their souls may be saved.</p>
+            <p>Hereunto is premised Counsel and Comfort to all good Christians, in this Time of the Plague.</p>
+            <p>By <hi>THOMAS WILLES,</hi> late Minister of <hi>Shadwell.</hi>
+            </p>
+            <p>The Second Edition Corrected and Enlarged.</p>
+            <q>
+               <bibl>
+                  <hi>Psal. 72.12, 13.</hi>
+               </bibl>
+               <p>He shall deliver the Needy when he cryeth: the poor al<g ref="char:EOLhyphen"/>so, and him that hath no helper. He shall spare the poor and needy, and shall save the souls of the needy.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Joel 11.17.</hi>
+               </bibl>
+               <p>Spare thy people O LORD.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Peter Parker</hi> in <hi>Popes-head-Alley,</hi> 1666.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:153758:4"/>
+            <p>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1+ pages missing〉</desc>
+               </gap>such is the contagion of this mortal dis<g ref="char:EOLhyphen"/>ease, that they are not without just reason afraid to come amongst them, when they have most need of their company, that they may receive the benefit and comfort of their <hi>Instructions</hi> and <hi>Prayers,</hi> and be prepared by them for their expected end. When the messenger of death is amongst them, O how welcome would a messenger of life and salvation be to them! would not some poor souls look on a Minister of the Gospel, <hi>as if they saw the face of an Angel of God?</hi> But alas! Ministers are mortal: and though a Minister should hazard his own life, he cannot rescue these poor creatures from death, who bearing the <hi>tokens</hi> of Gods displeasure, seem to be <hi>marked</hi> out (at least) for a <hi>temporal destru<g ref="char:EOLhyphen"/>ction.</hi> However some way to supply this defect, I have here provided this poor help; the Lord by his blessing make it be<g ref="char:EOLhyphen"/>neficial. The Lord pity and spare his poor people; The Lord stay and remove this grievous Plague. To these Requests of the Author, I doubt not but the pious Reader will add his <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:153758:4"/>
+            <head>TO THE RICH: A SERIOUS EXHORTATION, AND Seasonable Advice.</head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>AD is the state of many poor Fami<g ref="char:EOLhyphen"/>lies, in this <hi>time of Visitation.</hi> The <hi>Rich</hi> flie from the stroke, the <hi>Poor</hi> fall under it. They are shut up in their Houses,
+<note place="margin">
+                  <hi>Psal.</hi> 44.22.</note> as <hi>sheep for the slaugh<g ref="char:EOLhyphen"/>ter,</hi> while the grim Messenger of Death, the <hi>Destroying Plague,</hi> makes havock of them, cutting them off by hundreds, by thousands in a week. During this confinement they want ma<g ref="char:EOLhyphen"/>ny of those comfortable succours, both for <hi>Body</hi> and <hi>Soul,</hi> which those that have their health and
+<pb facs="tcp:153758:5"/>freedom may enjoy. Is it not sad that some should be pinched with <hi>Famine,</hi> whilst others perish by the <hi>Plague?</hi> Yea, its much to be fear<g ref="char:EOLhyphen"/>ed, that many of them being poor ignorant crea<g ref="char:EOLhyphen"/>tures, or having been very <hi>Loose-livers,</hi> do pe<g ref="char:EOLhyphen"/>rish in their sins, and dying, drop into Hell. Now, how lamentable is the condition of such poor creatures! Surely, if we are not utterly void of all <hi>humanity,</hi> we cannot but commise<g ref="char:EOLhyphen"/>rate the condition of those whom we are to look upon as <hi>our own flesh,</hi>
+               <note place="margin">
+                  <hi>Isa.</hi> 58.7.</note> upon the account of their Communion with us in the same humane nature. And if we are not destitute of all grace and good<g ref="char:EOLhyphen"/>nesse, insensible of the Immortality and preti<g ref="char:EOLhyphen"/>ousnesse of the souls of men, and unapprehensive of the woful miseries of the Damned in Hell, we cannot but be much affected with their miserable condition, who are not only in danger of a <hi>Tempo<g ref="char:EOLhyphen"/>ral death,</hi> but also of <hi>Eternal Damnation.</hi> Doth it not then concern us, doth it not well become us, both as <hi>Men</hi> and <hi>Christians,</hi> to endeavour all that in us lies, to rescue such poor creatures from these sad extremities? What a joy may it be to us, to save a poor <hi>Famishing Creature</hi> from death? What an honour to save a poor <hi>perishing soul</hi> from Hell! Oh then, do you, to whom God hath gi<g ref="char:EOLhyphen"/>ven <hi>Riches</hi> and <hi>Estates,</hi> liberally communicate to the <hi>Necessities</hi> of your poor brethren; Send in Re<g ref="char:EOLhyphen"/>lief to those poor Families that are shut up from all worldly comforts. Do you indeed <hi>love</hi> God? Manifest it by your <hi>charity</hi> ro the poor; For, <hi>Who so hath this Worlds goods,
+<note place="margin">1 <hi>John</hi> 3.1.</note> and seeth his Bro<g ref="char:EOLhyphen"/>ther have need, and shutteth up his bowels of com<g ref="char:EOLhyphen"/>passion
+<pb facs="tcp:153758:5"/>from him, how dwelleth the love of God in him?</hi> Certainly the time will come, when you will have as much need of <hi>Gods mercy,</hi> as they now have of <hi>your Charity;</hi> Now as ever you would sind mercy with God, in your greatest extremity, in the hour of death, when all your worldly Helps, Friends, Comforts, shall for ever fail you; Oh, put on <hi>Bowels of Mercy</hi> towards these poor crea<g ref="char:EOLhyphen"/>tures, in this sad <hi>Day of their Visitation;</hi>
+               <note place="margin">
+                  <hi>Col.</hi> 3.1.</note> and let your <hi>deeds of Charity</hi> be visible demonstrations of your <hi>Bowels of Mercy;
+<note place="margin">
+                     <hi>Mat.</hi> 5.7.</note> Blessed are the merciful</hi> (saith our Saviour) <hi>for they shall obtain mercy.</hi> But, remember withal;
+<note place="margin">
+                  <hi>Jam.</hi> 2.13.</note>
+               <hi>He shall have judgement without mercy, that hath shewed no mercy. I will ask you one thing</hi> (with our Saviour) <hi>Is it better to do good, or to do evil? to save life, or to destroy?</hi>
+               <note place="margin">
+                  <hi>Luke</hi> 6.9.</note> Our Saviour betwixt these two admits no <hi>Medi<g ref="char:EOLhyphen"/>um.</hi> Those whose lives you do not <hi>save,</hi> when it lies in your power, you do <hi>destroy</hi> in Gods ac<g ref="char:EOLhyphen"/>count. Now will it not be sad for you, at the <hi>Day of Judgement,</hi> to be indicted of the <hi>Mur<g ref="char:EOLhyphen"/>ther</hi> of many of those that are now reported to die of the <hi>Plague,</hi> and to be found guilty at Gods Tribunal, because you did not relieve them in their most miserable exigency and extremity?</p>
+            <p>Oh then, contribute what you can to the re<g ref="char:EOLhyphen"/>lief of their <hi>Bodies,</hi> and moreover let your hearts be affected with a Christian compassion towards them, in respect of the state of their <hi>souls.</hi> Sad is their state, who have neglected the Ordinances of God, and Means of grace, while they might have enjoyed them, and now are shut up and debarred the freedom of attendance
+<pb facs="tcp:153758:6"/>on them. Oh, methinks I see with what earnest<g ref="char:EOLhyphen"/>ness some do <hi>desire</hi> the opportunities they have sometimes <hi>despised;</hi> Oh with what seriousness would they now attend, if now God would be pleased to send them a <hi>Messenger,
+<note place="margin">
+                     <hi>Job</hi> 33.23.</note> one of a thou<g ref="char:EOLhyphen"/>sand,</hi> a Minister of the Gospel, to declare to them their <hi>sins,</hi> and the onely way of their <hi>salvation! Now</hi> that God hath awakened them by his visita<g ref="char:EOLhyphen"/>tion; <hi>Now</hi> that he threatens to slay them with the Plague; <hi>Now</hi> that he sets them upon the <hi>Brink of Eternity; Now</hi> if God would vouchsafe to make <hi>one offer of mercy</hi> to them more, one <hi>tender of grace and salvation</hi> more, how greatly would they re<g ref="char:EOLhyphen"/>joyce in it! how readily would they embrace it! how willingly would they submit to <hi>any terms</hi> that God would impose upon them, for their at<g ref="char:EOLhyphen"/>tainment of salvation and life eternal! Now there<g ref="char:EOLhyphen"/>fore how welcome would some seasonable help be to such poor souls? If therefore no better help be at hand; Oh that you would provide and send to every such poor visited Family, one of these Papers, which for this purpose I here put into your hands.</p>
+            <p>Moreover, how many are there, that being shut up, know not how to demean themselves in this sad visitation. They know not how to spend their pretious <hi>Time</hi> (the short remainder of their life on earth) upon which depends their follow<g ref="char:EOLhyphen"/>ing <hi>Eternity.</hi> They that are well, know not how to pray for the Sick; nor do either the sick or the well know how to pray for themselves. Thus be<g ref="char:EOLhyphen"/>fore there are any yet dead, the whole family lies buried in a <hi>stupid sorrow,</hi> and sloth, not knowing
+<pb facs="tcp:153758:6"/>what to do, or how to set themselves upon that <hi>necessary work</hi> (for which they have so short a time) which may conduce to the salvation of their souls, their future and eternal happiness. In this case I conceived some wholesome <hi>instructions</hi> and <hi>directions,</hi> with some suitable <hi>Formes of Prayer,</hi> might be very useful for such poor families; and have therefore thought good to put them thus into your hands, and to beg of you the cost and care of communicating them to such as you conceive may have most need of them; And this work of Charity, I doubt not, will redound to your <hi>com<g ref="char:EOLhyphen"/>fort</hi> and <hi>joy,</hi> in the day of your accompts. I now <hi>commend you to God, and to the word of his grace, who is able to present you faultless, before the presence of his glory, with exceeding joy,</hi> recommending to your serious consideration, that Apostolical injun<g ref="char:EOLhyphen"/>ction which is hereunto subjoyned, by</p>
+            <closer>
+               <signed>Your servant for<lb/> Jesus sake,<lb/>
+                  <hi>T. W.</hi>
+               </signed>
+               <dateline>
+                  <date>Aug. 7.<lb/> 1665.</date>
+               </dateline>
+            </closer>
+            <epigraph>
+               <q>
+                  <pb facs="tcp:153758:7"/>
+                  <bibl>1 Tim. 6.17, 18, 19.</bibl>
+                  <p>
+                     <hi>Charge them that are rich in this world, that they be not high-minded, nor trust in uncertain Riches, but in the living God, who giveth us all things richly to enjoy. That they do good, that they be rich in good works, ready to distribute, willing to communicate; Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life.</hi>
+                  </p>
+               </q>
+            </epigraph>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:153758:7"/>
+            <head>TO A <hi>Christian Friend,</hi> COUNSEL and COMFORT: Communicated for the good of others.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>His is a time of Gods Visi<g ref="char:EOLhyphen"/>tation. He that long held out his</hi> golden Scepter, <hi>is now come among you with his</hi> glittering sword; <hi>His Bow is bent, and his Qui<g ref="char:EOLhyphen"/>ver is full of the Arrows of his indigna<g ref="char:EOLhyphen"/>tion.
+<note place="margin">Psal. 7.12, 13. <hi>Iob</hi> 6.4. <hi>Psal.</hi> 91.5. <hi>Ex.</hi> 32.25. 2 <hi>Sam.</hi> 24.15.</note> The</hi> Pestilence <hi>is one of Gods</hi> im<g ref="char:EOLhyphen"/>poisoned Arrows. <hi>'Tis sin that disarms men of all</hi> defence, <hi>and exposes them</hi> naked <hi>to it; hence in the space of lesse than</hi> three dayes, <hi>there fell more than</hi> threescore thousand <hi>men before it. There is no</hi> shield <hi>can secure you from it, unless
+<pb facs="tcp:153758:8"/>that promise which is made to true</hi> Piety:
+<note place="margin">
+                  <hi>Psal.</hi> 91.3, 5, 6, 7.</note>
+               <hi>This</hi> shield <hi>in the hand of</hi> faith, <hi>if it secure you not from the</hi> stroke, <hi>will yet preserve you from the</hi> poison. <hi>There is not more</hi> poison <hi>in the Arrow, than there is</hi> Bal<g ref="char:EOLhyphen"/>som <hi>in the Promise; the one is not more powerful to</hi> kill, <hi>than the other is sove<g ref="char:EOLhyphen"/>reign to</hi> save. <hi>Be you sure then to espouse to your soul</hi> true piety, <hi>and you shall not fail to receive her portion: This</hi> Darling daughter <hi>of God hath a</hi> double dowry; the promise of the life which now is,
+<note place="margin">1 <hi>Tim.</hi> 4.8.</note> and of that which is to come: <hi>See here, both silver and gold, Earth and Heaven, tem<g ref="char:EOLhyphen"/>porals and eternals: If you should miss the former, the latter (which is infallibly sure to every Saint) is enough to make you for ever rich and happy. Be careful then to embrace and exercise a serious and solid</hi> piety, <hi>and you need fear no</hi> evil, <hi>nor the want of any</hi> good.
+<note place="margin">
+                  <hi>Psa.</hi> 34.10. <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 84.11.</note>
+               <hi>Would you then be truly</hi> happy, <hi>when so many thousands are</hi> miserable? <hi>take notice of your</hi> Duty <hi>and</hi> Comfort.</p>
+            <p>
+               <hi>The</hi> Duty <hi>to which God calls you by this Providence lies in these particulars:</hi>
+               <note place="margin">
+                  <hi>Ex.</hi> 19.10, 14, 22. <hi>Num.</hi> 11.18. <hi>Josh.</hi> 3.5. and 7.13.</note>
+            </p>
+            <p n="1">1. Sanctifie your selves; <hi>This hath been enjoyned wherever God hath manifested his special presence. Humble your selves for
+<pb facs="tcp:153758:8"/>your sins;
+<note place="margin">1 <hi>Cor.</hi> 15.12, 13.</note> turn to the Lord by a speedy and serious repentance:</hi> Purifie your selves from all filthiness of flesh and spirit.
+<note place="margin">2 <hi>Cor.</hi> 7.<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <hi>He is a holy God, who is come amongst you with his sword in his hand: If he find you in your sins, he may slay you in his wrath. Tis a dreadful thing to die in sin: he that thus falls by Gods arrow, drops into hell. Your King is at hand;</hi> prepare to meet him.
+<note place="margin">
+                  <hi>Am.</hi> 4.12. 1 <hi>Kin.</hi> 20.31, 32.</note>
+               <hi>Go as</hi> (Benhadad's <hi>servants</hi>) <hi>with</hi> ropes on your heads: The King of Israel is a merciful King.</p>
+            <p n="2">2. Get your souls sprinkled with the blood of Christ; <hi>apply it by faith. The de<g ref="char:EOLhyphen"/>stroying Angel passed over the house,
+<note place="margin">
+                     <hi>Exo.</hi> 12.7.13.</note> where the door-posts were sprinkled with the</hi> blood of the Lamb. <hi>The blood of Christ is the only sovereign</hi> Antidote <hi>against the Plague of sin; and the best</hi> Preservative <hi>both of body and soul.
+<note place="margin">
+                     <hi>Josh.</hi> 2.18.</note> The</hi> scarlet thread <hi>saved the house of</hi> Rahab, <hi>when the whole City was destroyed. The destroying Angel dares not smite that soul, that hath the least tincture of Christs blood applied by faith.</hi>
+            </p>
+            <p n="3">3. Build an Altar <hi>(with David)</hi> to God.
+<note place="margin">2 <hi>Sam.</hi> 24.25. <hi>Num.</hi> 16.46, 47, 48.</note>
+               <hi>With</hi> Aaron <hi>fill your</hi> Censers <hi>with</hi> holy Incense; <hi>Present your prayers and suppli<g ref="char:EOLhyphen"/>cations</hi> (spiritual Sacrifices) <hi>to God, in the
+<pb facs="tcp:153758:9"/>Name of Christ. Prayer reverses the An<g ref="char:EOLhyphen"/>gels Sword, holds back the Almighties Arm.</hi> Let me alone (<hi>saith the Lord to</hi> Moses) that I may destroy them.
+<note place="margin">
+                  <hi>Deut.</hi> 9.14.</note> Davids <hi>Prayer stayed that Plague which his Pride brought upon the People. Gods Judgements are a mighty</hi> Flood; <hi>Mans sins make a</hi> Breach <hi>in the Bank,</hi>
+               <note place="margin">
+                  <hi>Psal.</hi> 90.5. <hi>&amp;</hi> 106.23.</note> Prayer stands in the Breach <hi>to keep off the judgement, till the Breach be made up by</hi> Repentance.</p>
+            <p n="4">4. Lay to heart the sins of those a<g ref="char:EOLhyphen"/>mong whom you live. <hi>Godly sorrow is the most</hi> Sovereign Antidote <hi>to prevent the contagion of other Mens</hi> sins;
+<note place="margin">2 <hi>Pet.</hi> 2.7, 8.</note>
+               <hi>and the best</hi> Preservative <hi>from their approaching</hi> Plagues, <hi>Lot</hi> vexed his righteous soul for the filthy conversation of the <hi>Sodo<g ref="char:EOLhyphen"/>mites. And the Angels commissioned to destroy</hi> Sodom,
+<note place="margin">
+                  <hi>Gen.</hi> 19.32.</note>
+               <hi>had their charge first to deliver</hi> Lot. <hi>Its a sign of grace to mourn for others sins.</hi>
+               <note place="margin">
+                  <hi>Ps.</hi> 119.136.</note> Rivers of waters run down mine eyes (<hi>saith holy</hi> David) because men keep not thy law. <hi>And grace is the souls</hi> Ticket, <hi>for its admissi<g ref="char:EOLhyphen"/>on into the</hi> Sanctuary <hi>of Gods special protection. Oh then, sigh, and mourn and weep, for the vile sins of those amongst whom you live.
+<note place="margin">
+                     <hi>Ezek</hi> 9.4.</note> A</hi> Mark <hi>was set upon those that</hi> mourned <hi>for others Abominations.
+<pb facs="tcp:153758:9"/>These only were to be</hi> preserved, <hi>and the Destroying Angel was to</hi> cut off all the rest. <hi>God sets his Bow in the Cloud; Tis the</hi> mournful <hi>soul that receives the</hi> marks <hi>of Gods Favour.</hi>
+            </p>
+            <p n="5">5. Prepare for Death.
+<note place="margin">
+                  <hi>Rev.</hi> 6.8.</note>
+               <hi>Death now rides in triumph upon his</hi> pale Horse: <hi>if you meet him not in the streets, if you shut your doors upon him, he can look in at your windows. 'Tis not a poor</hi> Paper-wall <hi>can keep out his</hi> burning dart. <hi>'Tis folly to think of keeping</hi> Death <hi>out, when</hi> sin, <hi>his Harbinger, is already entred in. 'Tis your greatest wisdom so to prepare your selves to give him entertainment, that when he comes, you may bid him welcome. He is ever a</hi> Messenger of good tidings <hi>to a Saint. He comes to call him home to his Fathers house. Though you cannot</hi> de<g ref="char:EOLhyphen"/>fend <hi>your self from death, you may</hi> dis<g ref="char:EOLhyphen"/>arm <hi>death, so that it cannot hurt you. Get your sin pardoned, and you take out the</hi> sting of Death.
+<note place="margin">
+                  <hi>Acts</hi> 3.19.</note>
+               <hi>And if you seriously</hi> Repent, <hi>God will certainly</hi> Pardon. <hi>Get your interest in Christ, and evidences for eternal life, cleared and confirmed to you. Faith sensibly</hi> acted <hi>on Christ,
+<note place="margin">
+                     <hi>John.</hi> 3.16. 2 <hi>Pet</hi> 1 5, <hi>to</hi> 11.</note> vi<g ref="char:EOLhyphen"/>sibly</hi> operative <hi>in good works, will in<g ref="char:EOLhyphen"/>fallibly</hi> insure <hi>your salvation. So shall
+<pb facs="tcp:153758:10"/>your life (the life of your soul) be se<g ref="char:EOLhyphen"/>cure,
+<note place="margin">
+                     <hi>Col.</hi> 3.3, 4.</note> being</hi> hid with Christ in God. <hi>And then,</hi> when Christ, who is your life shall appear, you shall appear with him in glory.</p>
+            <p>
+               <hi>And now this leads me to the considera<g ref="char:EOLhyphen"/>tion of that</hi> comfort, <hi>which may be admi<g ref="char:EOLhyphen"/>nistred to you in this case and condition. Take it in these Particulars; Consider se<g ref="char:EOLhyphen"/>riously;</hi>
+            </p>
+            <p n="1">1. You are in the hand of God. <hi>Ʋpon this account</hi> David,
+<note place="margin">2 <hi>Sam.</hi> 24.14.</note>
+               <hi>with no loss wisdom than piety, rather chose the Plague, than the Sword or Famine. God hath indeed</hi> Vials of wrath, <hi>to pour upon poor sinners; but he hath</hi> Bowels of mercy <hi>to plead for his Saints.
+<note place="margin">
+                     <hi>Jam.</hi> 5.11.</note> For,</hi> the Lord is very piti<g ref="char:EOLhyphen"/>ful, and of tender mercy. <hi>Judgement is his</hi> strange work;
+<note place="margin">
+                  <hi>Isa.</hi> 28.21.</note>
+               <hi>but mercy pleaseth him;
+<note place="margin">
+                     <hi>Mic.</hi> 7.18.</note> 'tis his</hi> delight. <hi>By the abuse of his mercy do men awake his justice; yet even then, when he cometh forth to pu<g ref="char:EOLhyphen"/>nish men for their provocations, he bathes his</hi> Sword of Justice, <hi>in the</hi> Oyl of mercy. <hi>The Children of God, as they are not without faults,
+<note place="margin">
+                     <hi>Heb.</hi> 12.6, 7</note> so they escape not without correction. But still the Child is in the Fathers Arm, and the Rod is in a hand of love. And,</hi>
+               <pb facs="tcp:153758:10"/>Like as a Father pitieth his children,
+<note place="margin">
+                  <hi>Psal.</hi> 103.13, 14.</note> so the Lord pitieth them that fear him. For he knoweth our frame: he remembreth that we are dust. <hi>God has secret</hi> chambers of providence, <hi>wherein he preserves his <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aints in a time of common calamity;
+<note place="margin">
+                     <hi>Isa.</hi> 26.20. <hi>Psal.</hi> 27.5. and 91.4. <hi>Isa</hi> 49.2.</note> he hides them in his</hi> pavilion, <hi>and keeps them seeret in his</hi> sanctuary; <hi>he shrouds themunder his</hi> wings, <hi>and covers them with his</hi> feathers; <hi>he hides them in the</hi> shadow of his hand,
+<note place="margin">
+                  <hi>Deut.</hi> 32.10</note>
+               <hi>and keeps them as the</hi> apple of his eye.
+<note place="margin">
+                  <hi>Psal.</hi> 91.5,-10.</note>
+               <hi>Gods promise is his Saints security from the noisom Plague. It shall either not</hi> touch <hi>you; or if it do, not</hi> hurt <hi>you. If it do not touch you, you may live longer on earth; and it will not hurt you, if it bring you sooner to heaven. Fear not the</hi> arrow that flies by day,
+<note place="margin">and 91.5.</note>
+               <hi>and sends so ma<g ref="char:EOLhyphen"/>ny thousands to the</hi> shades of night: <hi>If wounded, you shall bleed in your</hi> Fathers arms; <hi>if mortally, you shall die in your</hi> Fa<g ref="char:EOLhyphen"/>thers bosom; <hi>and so sweet a death is bet<g ref="char:EOLhyphen"/>than the longest life.</hi>
+            </p>
+            <p n="2">2.
+<note place="margin">
+                  <hi>Rom.</hi> 8.28.</note> All things shall work together for your good:
+<note place="margin">
+                  <hi>Judg.</hi> 14.14</note>
+               <hi>Out of the</hi> eater <hi>shall come</hi> meat, <hi>and out of the</hi> strong sweetness; <hi>out of the greatest</hi> affliction <hi>God can raise the richest</hi> advantage. <hi>Happy are they who have the plague of</hi> pride and sin <hi>cured in their own souls, by that</hi> plague <hi>and</hi> sickness
+<pb facs="tcp:153758:11"/>
+               <hi>which is laid upon others bodies. When God sweeps away</hi> thousands in a week <hi>by the Plague, how happy shall you be if you wash away</hi> thousands of sins <hi>by repentance! How wise and good is God, who can make others sickness a means and medicine to purge our souls from sin! happy shall you be, if by others temporal</hi> death <hi>God shall pre<g ref="char:EOLhyphen"/>pare and fit you for eternal</hi> life.</p>
+            <p n="3">3. Death will bring your souls to glory. <hi>The</hi> worst <hi>you can fear is death; and is not that the best you can wish? what can you de<g ref="char:EOLhyphen"/>sire better than a translation to glory? Is it not the property of the Saints to</hi> groan <hi>after their</hi> dissolution,
+<note place="margin">2 <hi>Cor.</hi> 5.1.-8.</note>
+               <hi>out of an earnest desire of a more immediate</hi> Communion <hi>with Christ? Can you look upon death as an</hi> enemy, <hi>which comes to bring you to your best</hi> friend? <hi>the waters of</hi> Jordan <hi>will re<g ref="char:EOLhyphen"/>coil for your easier passage into</hi> Canaan. <hi>The terrors of death will soon be swallowed up in the joys of an endless life. If the</hi> destroying Angel <hi>smite your body, and it drop into the dust, there's a</hi> preserving Angel <hi>ready to receive your soul, and car<g ref="char:EOLhyphen"/>ry it up to the bosom of eternal blisse. If God cast down your</hi> tottering tabernacle,
+<note place="margin">
+                  <hi>Phil.</hi> 3.21.</note>
+               <hi>he will raise you up a</hi> beautiful temple. <hi>Your body which is vile in death, shall be
+<pb facs="tcp:153758:11"/>glorious in the resurrection: You shall therefore in death but leave a</hi> bed of sick<g ref="char:EOLhyphen"/>ness, <hi>a</hi> valley of tears, <hi>to live for ever in a</hi> Region of health and happiness. <hi>Death to a Saint is but the birth day of a blessed immortality, the commencement of an eternal Festivity.</hi>
+            </p>
+            <p n="4">4.
+<note place="margin">1 <hi>Kin.</hi> 8.27, <hi>Psel.</hi> 139.7,-12.</note> Though you may be deprived of the society of men, you cannot be debarred the freedom of communion with God. <hi>As God is not</hi> included <hi>in the Heaven of Heavens;
+<note place="margin">1 <hi>John</hi> 13</note> so cannot he be</hi> excluded <hi>from any place on earth: And communion with God and Christ (the priviledge of a Saint) is certainly better to a gracious soul than the company and comfort of the nearest relations, of all the dearest friends in the world. 'Tis the voice of a Saint,</hi>
+               <note place="margin">
+                  <hi>Psal.</hi> 73.25.</note> Whom have I in heaven but thee? and there is none upon earth that I desire besides thee. <hi>Fear not want of company in the strictest confinement; God and his holy Angels will dwell with you; and is not that house a kind of heaven, where a Saint dwells with God and his holy Angels? Be it your comfort though you may be shut up here on earth, you cannot be shut out of heaven. Certainly in the closest confinement, a Saint hath at least a</hi> window, <hi>by which he can
+<pb facs="tcp:153758:12"/>look into heaven, and a</hi> door <hi>by which he may pass into Paradise.</hi>
+            </p>
+            <p n="5">5. Upon your repentance God will seal your pardon. <hi>Sin is the greatest evil; 'tis worse than the Plague; it destroys both bo<g ref="char:EOLhyphen"/>dy and soul. If the greatest evil be remo<g ref="char:EOLhyphen"/>ved, you need not fear the lesser. If your soul be secured, what need you fear that which can but hurt the body. Though sick<g ref="char:EOLhyphen"/>ness bring your body into</hi> dust, <hi>God will shortly raise it up in</hi> glory. <hi>That Plague which is so severe a punishment to the un<g ref="char:EOLhyphen"/>godly, is to the children of God but a</hi> cha<g ref="char:EOLhyphen"/>riot <hi>sent to bring them home to their Fa<g ref="char:EOLhyphen"/>ther in Heaven.</hi>
+            </p>
+            <p>
+               <hi>Now the Lord give you that good</hi> spirit of promise, <hi>that may teach and guide you into all</hi> truth, <hi>support and comfort you in all</hi> trouble, <hi>until your services and suffer<g ref="char:EOLhyphen"/>ings on earth, shall be crown'd with a glo<g ref="char:EOLhyphen"/>rious reward and everlasting joyes in Hea<g ref="char:EOLhyphen"/>ven: And by the same Spirit, and for the same ends, the Lord breath life and sweet<g ref="char:EOLhyphen"/>ness into the</hi> counsels and comforts <hi>here tendred to you, by the hand of his unwor<g ref="char:EOLhyphen"/>thy servant, and</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>Aug. 7. 1665.</date>
+               </dateline>
+               <signed>Your faithful Friend<lb/> and Monitor.<lb/>
+                  <hi>T. Willes.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:153758:12"/>
+            <head>A Help for the POOR THAT ARE VISITED WITH THE PLAGUE.</head>
+            <div n="1" type="part">
+               <head>THE FIRST PART: <hi>Shewing them their Duty and Concernment in this Condition.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>O you that are Visited with this sad and heavy judgement of the Plague and Pestilence, or in great danger thereof, do I now address my self. And because I do heartily desire to do good to the Poorest, Weakest, and Meanest of You, I shall <hi>use great plainness of speech.</hi>
+                  <note place="margin">2 <hi>Cor.</hi> 3.12.</note>
+               </p>
+               <pb n="2" facs="tcp:153758:13"/>
+               <p> This Visitation is therefore terrible to you, be<g ref="char:EOLhyphen"/>cause mortal to the most. The Plague is one of the fiercest Fore-runners of the <hi>King of Terrours;</hi> it doth but touch and take, whomsoever it smites, it usually slays. And therefore I know your desires are to be kept from it, or to be cured of it. And because the latter is more dangerous, the for<g ref="char:EOLhyphen"/>mer is more desirable. But this know for certain, there is no man living can give you any certain se<g ref="char:EOLhyphen"/>curity for either. If God will smite (for 'tis his scourge) who can stay his hand? If he will slay, who can keep alive? Whom God smites with the Sword of Pestilence, he is wont to <hi>smite to the earth at once:</hi>
+                  <note place="margin">1 <hi>Sam.</hi> 26.8.</note> He does not need to redouble his stroke, nor is he wont to <hi>smite the second time.</hi> He is every where present; we cannot flie from him: and he is Almighty; we cannot resist or escape him. Seeing then there is no way possible to secure the <hi>life of your bodies;</hi> it is your chiefest wisdome to secure the <hi>salvation of your souls.</hi>
+               </p>
+               <p>The greatest danger, doubtless is, lest when you come to dye, and your souls in death shall leave your bodies, they should be cast into Hell<g ref="char:EOLhyphen"/>fire, from whence there is no redemption: and therefore your chiefest care should be to glorifie God in the <hi>day of your Visitation,</hi> and to save your own souls.</p>
+               <p>And for this end and purpose seriously mind these following <hi>Directions,</hi> and in the Fear of God, speedily set upon these necessary <hi>Duties,</hi> which for your spiritual and eternal good, I do here re<g ref="char:EOLhyphen"/>commend unto you, <hi>viz.</hi>
+               </p>
+               <p n="1">
+                  <pb n="3" facs="tcp:153758:13"/> 1. <hi>Look up to God, and be sensible of his hand in your Visitation.</hi>
+               </p>
+               <p n="2">2. <hi>Look down upon your selves, and be deeply sensible of your sins.</hi>
+               </p>
+               <p n="3">3. <hi>Speedily make your peace with God, whom you have offended.</hi>
+               </p>
+               <p n="4">4. <hi>Speedily prepare for Death, which you have deserved.</hi>
+               </p>
+               <p n="5">5. <hi>Patiently bear your affliction and restraint.</hi>
+               </p>
+               <p n="6">6. <hi>Piously improve the time of your Visita<g ref="char:EOLhyphen"/>tion.</hi>
+               </p>
+               <p n="7">7. <hi>Quietly wait upon God, with submission to his Will, for the issue of it.</hi>
+               </p>
+               <p>These are your Duties, beg of God to assist you to do them. Lift up your Heart to God, and say; <hi>Ah Lord, spare my life, till by the help of these directions thou hast brought to my hand, I am prepared for death. And, Oh help me by thy grace, so to do these duties of Piety, that I may end my dayes in Peace.</hi> Then seriously set up<g ref="char:EOLhyphen"/>on the work that lies before you,
+<note place="margin">2 <hi>Chro.</hi> 20.17.</note> and <hi>the Lord will be with you.</hi> So God will either preserve you from the Plague, and prolong your life on earth, or pardon your sin, and give you eternal life in Heaven.</p>
+               <div n="1" type="duty">
+                  <head>The First Duty.</head>
+                  <p>
+                     <hi>LOOK up to God, and be sensible of his hand in your Visitation.</hi> Certainly,
+<note place="margin">
+                        <hi>Job</hi> 5.6.</note>
+                     <hi>Affliction com<g ref="char:EOLhyphen"/>eth not forth of the Dust;</hi> nor doth the destroy<g ref="char:EOLhyphen"/>ing
+<pb n="4" facs="tcp:153758:14"/>Plague come by chance. There is a great God, who made the world, and governs it, and all things therein. His Empire is universal: his <hi>King<g ref="char:EOLhyphen"/>dom is over all.</hi>
+                     <note place="margin">
+                        <hi>Psal.</hi> 103.19.</note> There is nothing comes to pass, but according to his wise counsel and determina<g ref="char:EOLhyphen"/>tion; Nothing but what is ordered, directed, and limited by his wise, holy, powerful, and all-disposing Providence. <hi>Are not two Sparrows sold for a farthing</hi> (saith our Saviour to his Disci<g ref="char:EOLhyphen"/>ples) <hi>and one of them shall not fall on the Ground without your Heavenly Father.
+<note place="margin">
+                           <hi>Mat.</hi> 10.29, 30.</note> But the very hairs of your head are numbred.</hi> This great God is the Lord of life and death;
+<note place="margin">1 <hi>Sam.</hi> 2.6. <hi>Psal.</hi> 31.15.</note> He <hi>kills, and makes alive,</hi> at his own pleasure. Our <hi>Times are in his hand,</hi> and he varies them according to his will. He checkers our life with good and evil, health and sicknesse, joy and sadnesse, as he doth the face of time with light and darknesse, day and night. Though our calamities do oft immediate<g ref="char:EOLhyphen"/>ly proceed from second causes, yet God, who is the first cause, orders, directs, and deter<g ref="char:EOLhyphen"/>mines them, as to these hurtful effects. <hi>Job</hi> therefore doth religiously acknowledge the <hi>Hand of God,</hi>
+                     <note place="margin">
+                        <hi>Job</hi> 1.21.</note> in those evils which were procured by the malicious <hi>Agency of Satan.</hi> And therefore we find God challenging to himself, as his proper prerogative, this universal causality. For, saith he,
+<note place="margin">
+                        <hi>Isa.</hi> 45.5, 7.</note>
+                     <hi>I am the Lord, and there is none else, there is no God besides me. I form the light, and create darknesse; I make peace, and create evil; I the Lord do all these things.</hi>
+                     <note place="margin">
+                        <hi>
+                           <gap reason="illegible: faint" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>os</hi> 3.6.</note> And again, <hi>Shall there be evil in a City, and the Lord hath not done it?</hi> Understand this of the <hi>evil of punishment,</hi> not of
+<pb n="5" facs="tcp:153758:14"/>the <hi>evil of sin.</hi> For God is so infinitely essentially good, as that it is impossible he should be the Author of sin. Sooner may the Sun, the Fountain of light, be the cause of darkness; than God, the Fountain of Goodness, can be the cause of the evil of sin. But for sickness, the proper effect and punishment of sin, it comes from God, as a just judge, the righteous Governour of the World. God therefore threatens his <hi>Israel,</hi> to bring upon them all the diseases of <hi>Egypt,</hi> for their disobedience. See <hi>Deut.</hi> 28.58, <hi>to</hi> 62. 'Twas he that smote them with the Plague and Pe<g ref="char:EOLhyphen"/>stilence, both in the time of <hi>Moses,</hi> and in the dayes of <hi>David.</hi> Oh then be very sensible of the Hand of God upon you, in this day of your Vi<g ref="char:EOLhyphen"/>sitation;
+<note place="margin">
+                        <hi>Jam.</hi> 4.10. 1 <hi>Pet.</hi> 5.6.</note> and <hi>humble your selves under his migh<g ref="char:EOLhyphen"/>ty hand,</hi> that he may have mercy upon you, and save you.</p>
+               </div>
+               <div n="2" type="duty">
+                  <head>The Second Duty.</head>
+                  <p>
+                     <hi>LOok down upon your selves, and be deeply sensi<g ref="char:EOLhyphen"/>ble of your sins.</hi> 'Tis sin that provokes God, and so procured all the evils that the Sons of men do undergo. Sicknesse is a scourge in the Hand of God, wherewith he chastises the Sons of men for their sins. <hi>David</hi> therefore in his sufferings, was very sensible of his sins. And therefore he thus addresses his supplication to God;
+<note place="margin">
+                        <hi>Psal.</hi> 25.18.</note>
+                     <hi>Look upon mine affliction and my pain, and forgive all my sins.</hi> Now the Plague is a special judgment
+<pb n="6" facs="tcp:153758:15"/>which God reserves (as it were) in his own hand, for the severer punishment of some more grievous and provoking sins. 'Tis Gods Visita<g ref="char:EOLhyphen"/>tion, when he is provoked to wrath by mens sins; And have not you, think you, contribu<g ref="char:EOLhyphen"/>ted to the measure of those sins, whereby the wrath of Almighty God hath been provoked, which is now poured out in this sore judgement of the Plague, upon the chief City of the Land? On then, labour to be sensible of, and deeply af<g ref="char:EOLhyphen"/>fected with your sins, whereby you have provoked God to anger.</p>
+                  <p>There are some <hi>special sins,</hi> for the punish<g ref="char:EOLhyphen"/>ment whereof, God hath either inflicted or threat<g ref="char:EOLhyphen"/>ned this very particular judgment of the Plague and Pestilence. And it much concerns you, both to search Gods Book, and to examine your selves, lest you should be found guilty of any of those sins; Some of them are these that fol<g ref="char:EOLhyphen"/>low.</p>
+                  <p n="1">1. <hi>Neglect of the Worship and Service of God:</hi> especially when conjoyned with contempt of his Command, <hi>Exod.</hi> 5.3. <hi>Zach.</hi> 14.17, 18.</p>
+                  <p n="2">2. <hi>Obstinacy in disobedience.</hi> Obssinate refusal to hearken to, and to obey the Voice of God by his Ministers, <hi>Exod.</hi> 9.13, 14, 15. <hi>Deut.</hi> 28.15, 21. <hi>Jer.</hi> 14.10, 11, 12. <hi>and</hi> 21.5, 6. <hi>and</hi> 29.15, <hi>to</hi> 19. <hi>and</hi> 42.13, 17, 19, <hi>to the end; and</hi> 44.13, 15, 16, 17.</p>
+                  <p n="3">3. <hi>Incorrigibleness under former judgments;</hi> When men will not be reclaim'd by <hi>lesser</hi> judge<g ref="char:EOLhyphen"/>ments, God sends <hi>greater.</hi> When men will not regard the frowns of Gods displeasure, they may
+<pb n="7" facs="tcp:153758:15"/>expect the strokes of his fury. The destroying Plague comes in the Reer of fore-running Punish<g ref="char:EOLhyphen"/>ments, <hi>Lev.</hi> 26.21, <hi>to</hi> 25. <hi>Amos</hi> 4.6, <hi>to</hi> 10.</p>
+                  <p n="4">4. <hi>Prophanation of Gods Holy Ordinances;</hi> Particularly of the Sacrament of the <hi>Lords Sup<g ref="char:EOLhyphen"/>per,</hi> 2 <hi>Chron.</hi> 21.12. <hi>to</hi> 15. 1 <hi>Cor.</hi> 11.20, 21, 30.</p>
+                  <p n="5">5. <hi>Ʋnbelief, distrust, and murmurring against Gods Providences,</hi> when he doth not afford us the visible means of that plenty and safety, sufficiency and security we desi<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, <hi>Numb.</hi> 14.11, 12, 26, 27, <hi>&amp;c.</hi> 37. <hi>and</hi> 11.4, 5, 6, 33.</p>
+                  <p n="6">6. <hi>Murmurring against men, Magistrates, and Ministers,</hi> because of the evils inflicted by God, the just punishments of presumptuous and rebelli<g ref="char:EOLhyphen"/>ous sinners, <hi>Numb.</hi> 16.41, 49.</p>
+                  <p n="7">7. <hi>Open and horrible uncleanness and whordom,</hi> Numb. 25.1, <hi>to</hi> 4, 9. <hi>with Josh.</hi> 22.17.</p>
+                  <p>No wonder though God send the Plague for the punishment of a people among whom these <hi>Seven Abominations</hi> may be found, when it hath been inflicted, or is threamed for any <hi>one</hi> of them. And much more may it be expected, when God is continually provoked to this se<g ref="char:EOLhyphen"/>vere Visitation, by mens <hi>Licentiousnesse,</hi> in all manner of evils and impieties. When all sorts of sins do abound amongst all sorts of men. See <hi>Ezek.</hi> 33.24, <hi>to</hi> 27. <hi>Heb.</hi> 2. <hi>throughout, and</hi> 3.1, <hi>to</hi> 5.</p>
+                  <p>Now deal seriously with thy own soul, whoso<g ref="char:EOLhyphen"/>ever thou art that readest these lines, and setting thy self, as in the presence of the All-seeing God, the Judge of the whole world. Consider,
+<pb n="8" facs="tcp:153758:16"/>Art thou not guilty of some or more of the fore<g ref="char:EOLhyphen"/>mentioned sins? Hast thou not by thy personal Transgressions added to the Provocations of the people of the Land? And is it not meet that the most Holy and Righteous God should <hi>visit for these things?</hi> Is it not wonderful he hath not long before now cut off many thousands in his wrath? Hast thou not cause to admire his wonderful pati<g ref="char:EOLhyphen"/>ence in sparing thee so long, and to adore his Ju<g ref="char:EOLhyphen"/>stice in this his Visitation? Oh cast thy self down at the feet of an offended Majesty, and in a deep sense of thy sins, and provocations, cry out, <hi>I have sinned,
+<note place="margin">
+                           <hi>Job</hi> 7.20.</note> I have sinned; Oh what shall I do unto thee, O thou preserver of men?</hi>
+                  </p>
+               </div>
+               <div n="3" type="duty">
+                  <head>The Third Duty.</head>
+                  <p>
+                     <hi>SPeedily make your Peace with God, whom you have offended.</hi> If God cut you off in his wrath, he will cast you into Hell. This corporal Plague will transmit you to eternal punishment: If it be sad to be shut up from society of men on earth, how much more sad will it be to be eternally excluded from the presence of God, and the society of Saints and Angels in Heaven! If it be a dreadful thing to be shut up in a House, visited with the Plague, how much more dreadful is it to be shut up in the darke and fiery Prison of <hi>Hell?</hi> there to have no other company then that of the Devils and Damned to eternity! Yet if you die in your sins, this will certainly be your
+<pb n="9" facs="tcp:153758:16"/>state, how soon or suddenly you may die you know not; it concerns you therefore very speedily to make your peace with God. If God be reconci<g ref="char:EOLhyphen"/>led to you in Christ, he will either preserve your body from the Plague, from death; or save your soul from Hell; you shall either have a longer life on earth, or a speedier advance to Heaven; where there is no sin, no sickness, no sorrow, but per<g ref="char:EOLhyphen"/>fect health, perfect happiness, perfect peace and joy for ever. If you make your peace with God, you shall be most happy; both in life and death: In life, happy in his love and favour; Most happy in death,
+<note place="margin">
+                        <hi>Psal.</hi> 16.11.</note> in the fruition of ineffable <hi>pleasures in his presence for ever.</hi>
+                  </p>
+                  <p>Quest. <hi>But how shall I make my peace with God?</hi>
+                  </p>
+                  <p>Answ. 1. <hi>Humble your self for your sins,</hi> whereby you have offended him. Cast down your self before him, and make an humble confession of your sins, with an unfeigned sorrow and grief of heart, that you have so grievously offended so good a God. By <hi>Pride</hi> man departs from God: <hi>Humiliation</hi> and self-abasement; is the first step of his return to God. By commission of sin,
+<note place="margin">
+                        <hi>Prov.</hi> 28.12.</note> we make God an enemy; but upon penitent confessi<g ref="char:EOLhyphen"/>on of sin, we shall find God a friend.
+<note place="margin">1 <hi>Pet.</hi> 5.6.</note>
+                     <hi>Humble your self</hi> therefore for all your sins, that God may <hi>exalt you in due season. For God resisteth the proud,
+<note place="margin">
+                           <hi>Jam.</hi> 4.6.</note> but giveth grace to the humble.</hi>
+                  </p>
+                  <p n="2">2. <hi>Earnestly beg mercy of God in the pardon of your sins.</hi> Without pardon of sin, no peace with God. For this therefore beg with all earnestness, even as for your life; the life of your soul lies
+<pb n="10" facs="tcp:153758:17"/>upon it.
+<note place="margin">
+                        <hi>Exod.</hi> 34.6, 7.</note> God hath proclaimed himself to be <hi>mer<g ref="char:EOLhyphen"/>ciful, and gracious, pardoning iniquity, trangres<g ref="char:EOLhyphen"/>sion and sin.</hi> He hath promised pardon to the tru<g ref="char:EOLhyphen"/>ly penitent, <hi>Isa.</hi> 1.15, 16, 17, 18. <hi>and</hi> 55.6, 7. <hi>Acts</hi> 3.19. Plead out these promises, till you have the pardon of your sins sealed up to your souls, in a comfortable assurance thereof.</p>
+                  <p n="3">3.
+<note place="margin">
+                        <hi>Rom.</hi> 3.24, 25.</note>
+                     <hi>Cast your self on the Lord Jesus Christ, by believing.</hi> God shews no mercy to any in the par<g ref="char:EOLhyphen"/>don of their sins, or in the salvation of their souls, but only in and through Christ. You must have an interest in Christ by believing, if ever you would have Peace with God,
+<note place="margin">
+                        <gap reason="illegible: faint" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> and 5.10.</note> or receive any fruits of his favour. God is <hi>reconciled</hi> to sinners, onely in his Son <hi>Jesus Christ.</hi>
+                  </p>
+               </div>
+               <div n="4" type="duty">
+                  <head>The Fourth Duty.</head>
+                  <p>
+                     <hi>SPeedily prepare for death, which you have deser<g ref="char:EOLhyphen"/>ved.</hi> By your sins you have offended God, and now (with the rest of the Family visited) are shut up,
+<note place="margin">
+                        <hi>Psa.</hi> 44.22.</note> as <hi>sheep appointed for the slaughter;</hi> The destroying Angel is come in among you, and though you are yet in health, how soon he may smite you with death, you know not. Doth not God by this providence, say to thee, <hi>Set thy house, thy heart in order,
+<note place="margin">
+                           <hi>Isa.</hi> 38.1.</note> for thou must die?</hi> How near, (for any thing thou knowest) doth death stand to thee!
+<note place="margin">
+                        <hi>Luke</hi> 12.20.</note> Alas! <hi>This night thy soul may be taken from thee;</hi> And yet, if thou diest unprepared (alas!) thou art undone for ever. How many thousand
+<pb n="11" facs="tcp:153758:17"/>poor creatures (it is much to be feared) are sur<g ref="char:EOLhyphen"/>prised with death, before they are fit to die! Alas, how many are surprised in their sins, and so as their bodies drop into the dust, their souls are sent into Hell, there to lie in quenchless flames, and to endure the wrath of Almighty God to e<g ref="char:EOLhyphen"/>ternity! Oh this is (in times of mortality) mat<g ref="char:EOLhyphen"/>ter of great lamentation. This, this is that which (if possible) deserves to be bewailed with <hi>tears of Blood.</hi>
+                  </p>
+                  <p>But now if you were duly prepared to die, you need not at all to fear death. Death would but put an end to all the <hi>Miseries of life.</hi> Death would but put your soul into immediate <hi>Possession of Paradise.</hi> Death would but bring <hi>you to a glo<g ref="char:EOLhyphen"/>rious Rest,</hi> and crown your souls with everlasting joys. And, O happy soul, that through the <hi>pangs of death,</hi> passeth into the <hi>joys of Paradise!</hi> you would but go from Earth to Heaven; from an house infected with the Plague, to a place of everlast<g ref="char:EOLhyphen"/>ing pleasures. And never was any man sorry that he came so soon to Heaven. Never did any, that ever tasted of the joys of Heaven, grieve that he so soon left and lost all the pleasures upon earth. You shall but exchange your earthly <hi>com<g ref="char:EOLhyphen"/>forts</hi> for eternal <hi>Crowns</hi> of glory. Had you but an affured interest in, and a lively apprehension of the happiness of the Saints in Heaven, I am sure you would not desire to live one day longer on earth. Believers who have tasted the joys of hea<g ref="char:EOLhyphen"/>ven, in communion with Christ,
+<note place="margin">2 <hi>Cor.</hi> 5.1,-8. <hi>Phil.</hi> 1.23.</note>
+                     <hi>groan in their earth<g ref="char:EOLhyphen"/>ly Tabernacles, desiring to be dissolved and absent from the body, that they may be for ever present with the Lord.</hi>
+                  </p>
+                  <pb n="12" facs="tcp:153758:18"/>
+                  <p> Quest. <hi>But how shall I so prepare my self for death, that I may entertain it with joy, in the hopes of eternal life in Heaven?</hi>
+                  </p>
+                  <p>
+                     <hi>Ans.</hi> Set your self speedily and seriously to do these <hi>three things,</hi> and you shall be fit either to live with comfort, or to die in peace, with undecei<g ref="char:EOLhyphen"/>ving hopes of glory.</p>
+                  <p>First, <hi>Get your sins pardoned, and your pardon sealed.</hi>
+                  </p>
+                  <p>Secondly, <hi>Get the life of your soul secured.</hi>
+                  </p>
+                  <p>Thirdly, <hi>So live, as one that ever looks when he shall die.</hi>
+                  </p>
+                  <p>This is your threefold work (the great busi<g ref="char:EOLhyphen"/>nesse of your life) which when you have done, you may quietly go to your <hi>Rest</hi> at the sum<g ref="char:EOLhyphen"/>mons of Death. Seriously then set your self to it.</p>
+                  <p n="1">1. Work, <hi>Get your sins pardoned, and your pardon sealed.</hi> 'Tis nothing but sin, that can keep you out of Heaven, that can sink your soul to Hell. If your sins were pardoned, you need not be afraid to die; Death could then but bring you to Heaven, and so be an end of your <hi>mise<g ref="char:EOLhyphen"/>ries,</hi> a beginning of your <hi>happiness.</hi> If you should die in your sins, you will not dare to look God, your judge in the face; but if your sin be forgi<g ref="char:EOLhyphen"/>ven you, you may hold up your head with joy, the holy Angels will be ready in death to tran<g ref="char:EOLhyphen"/>sport your soul into the blessed Mansions of Bliss and Glory.</p>
+                  <p>Quest. 1. <hi>But what must I do that my sins may be pardoned?</hi>
+                  </p>
+                  <pb n="13" facs="tcp:153758:18"/>
+                  <p>
+                     <hi>Answ. Repent, and God will forgive,</hi> Acts 3.19. and 5.31. if your sins be never so many, never so great, if you do unfeignedly repent of them, and with your whole soul turn from them to God, he will certainly forgive them all. See his Promise, <hi>Isa.</hi> 1.16, 17, 18. <hi>Wash ye, make you clean,</hi> &amp;c. And again, <hi>Isa.</hi> 55.7. <hi>Let the wicked forsake his way, and the unrighteous man his thoughts, and let him re<g ref="char:EOLhyphen"/>turn to the Lord, and he will have mercy upon him, and to our God, for he will abundantly pardon.</hi> On then speedily, seriously (while you have yet time and space) set upon this necessary work of Repen<g ref="char:EOLhyphen"/>tance. Retire your self into your secret chamber or closet; being there, set your self as under the All-seeing eye of God: strictly examine your self; reflect upon your whole life past; call your sins to remembrance, those especially to which you have been most addicted, and whereby you have most dishonoured God. Think with your self, what sins are they that would most trouble me was I now to die, and make me afraid that God would throw me into Hell? and having found them out, fall down on your knees, and confess them to God. Work your heart to an unfeigned sorrow for them, hatred of them, and resolution against them; this <hi>penitent confession of your sins,</hi> will put you into <hi>capacity of the pardon of them,</hi> according to Gods gracious promises; as <hi>Pro.</hi> 28.13. <hi>He that covereth his sin shall not prosper: but whoso confesseth and forsaketh them shall have mercy;</hi> and 1 <hi>Joh.</hi> 1.9. <hi>If we confess our sins, he is faithful and just to for<g ref="char:EOLhyphen"/>give us our sins, and to cleanse us from all unrighte<g ref="char:EOLhyphen"/>ousness.</hi> Oh then beg earnestly of God mercy in
+<pb n="14" facs="tcp:153758:19"/>the forgiveness of your sins; and so humbly ap<g ref="char:EOLhyphen"/>ply the promises of pardon, and labour to feel them <hi>sealed</hi> up to your soul by the <hi>spirit of God,</hi> in a comfortable assurance of the forgiveness of your sins. For a help to the weak in this work, I have (in the <hi>Second Part</hi>) drawn up <hi>The Penitents Confession of his sins, and Petition for Pardon,</hi> which you may make use of for this end.</p>
+                  <p>Quest. 2. <hi>But what must I do that I may be assu<g ref="char:EOLhyphen"/>red my sins are pardoned?</hi>
+                  </p>
+                  <p>
+                     <hi>Ans.</hi> If in the foregoing Work you do not find the Promises so sealed up to your soul by the spirit of God, that you are assured of the pardon of your sins, then do this; seriously <hi>reflect</hi> upon your repentance, and <hi>review</hi> Gods promises of pardon: Say thus with your self, God hath gra<g ref="char:EOLhyphen"/>ciously promised the <hi>pardon</hi> of sin to them that truly <hi>repent.</hi> Now though I cannot so mourn for my sins, as the heinousness of them does deserve, yet am I so unfeignedly sorrowful for them, be<g ref="char:EOLhyphen"/>cause I have thereby offended a good and a graci<g ref="char:EOLhyphen"/>ous God, who hath preserved me all my life, sustained me with many mercies, sent his Son to die for me, that I do heartily desire to forsake them for ever, and to turn from them all to God. And O that God would give me a heart to hate them, and grace never more to commit any of them. Now God hath graciously promised pardon to them that do thus repent of their sins. O let him fulfil his promises to my soul; he certainly will do it; for he is faithful and true, and its im<g ref="char:EOLhyphen"/>possible he should ever fail in the performance of any of his promises: Oh <hi>then be it to me, O Lord,
+<pb n="15" facs="tcp:153758:19"/>according to thy word.</hi> I desire quietly to rest sa<g ref="char:EOLhyphen"/>tisfied with that assurance thou hast thereby given me of the forgiveness of my sins, and I heartily bless thy name, and adore the riches of thy grace, in that thou art pleased in such a time of need to shew mercy on such a vile sinner.</p>
+                  <p n="2">2. Work, <hi>Get the life of your soul secured;</hi> La<g ref="char:EOLhyphen"/>bout to get so sound an <hi>evidence for life eternal,</hi> that you may be assured whensoever you die, your soul shall be saved. Your body is mortal, it shall at length drop into the dust; but your soul is immor<g ref="char:EOLhyphen"/>tal, it shall never die. But when your body dies, your soul must immediately go either to heaven or to hell: Your soul dismissed from the body, shall either <hi>endure all the miseries of the damned</hi> in hell, or <hi>enjoy all the felicity of the blessed</hi> in heaven to eternity. Now if you were but assured upon un<g ref="char:EOLhyphen"/>deceiving grounds, that your soul should be sa<g ref="char:EOLhyphen"/>ved, you need not fear death; Death would be nothing then but an entrance into life, a gate to glory. Your soul would but leave a <hi>clay cottage</hi> for a <hi>heavenly habitation.</hi> Your soul would but flie up as a spark to heaven, there to shine as a star in glory.</p>
+                  <p>Quest. 1. <hi>But how may I secure the life of my soul? how may I make sure my salvation?</hi>
+                  </p>
+                  <p>Answ. <hi>By faith in Jesus Christ; Believe in the Lord Jesus Christ, and thou shalt be saved.</hi> For,
+<note place="margin">
+                        <hi>Acts</hi> 16.32 <hi>John</hi> 3.16.</note>
+                     <hi>God so loved the world, that he gave his only begotten Son, that whosoever believeth in him, should not perish, but have everlasting life.</hi> Consider seriously thy condi<g ref="char:EOLhyphen"/>tion. Know, Thou wast <hi>born in sin,</hi> and art by Na<g ref="char:EOLhyphen"/>ture a <hi>Child of Wrath,</hi> justly obnoxious to the
+<pb n="16" facs="tcp:153758:20"/>Wrath of Almighty God, and liable to the Tor<g ref="char:EOLhyphen"/>ments of the Damned in Hell. Know thou hast in thy corrupt Nature, the <hi>seeds</hi> of all manner of <hi>sins,</hi> the cursed <hi>principles</hi> of all manner of <hi>impiety</hi> and rebellions against God. Consider how many thou<g ref="char:EOLhyphen"/>sand times thou hast by thy actual transgressions broken Gods Holy Law in thought, word and deed. Oh be sensible that thou art a lost and utter<g ref="char:EOLhyphen"/>ly undone creature in thy self, by reason of thy sins. For every sin, as it offends an infinite Maje<g ref="char:EOLhyphen"/>sty, deserves an eternal punishment: and how ma<g ref="char:EOLhyphen"/>ny grievous sins art thou guilty of, against Almigh<g ref="char:EOLhyphen"/>ty God! For these sins thou art already condem<g ref="char:EOLhyphen"/>ned by the Sentence of the Law;
+<note place="margin">
+                        <hi>John</hi> 3.18.</note> while thou art in this condition, thou art every moment in danger of eternal damnation. And if thou diest in this state, thy soul will certainly drop into Hell-fire. This is thy danger, thy condition, from which thou canst not by any thing thou canst do or suffer, save or deliver thy self.
+<note place="margin">
+                        <hi>Acts</hi> 4.12.</note> Neither can <hi>any creature</hi> in Heaven or Earth save thee; 'tis only the <hi>Blood of Christ</hi> can expiate thy sins; 'tis only Christ Je<g ref="char:EOLhyphen"/>sus can save thy soul. If thou hast interest in Christ by believing, <hi>thou shalt be saved:</hi> if not, thou must certainly <hi>be damned,</hi> Mark 16.16. Now know that salvation by <hi>Christ</hi> is freely tendered in the Gospel to the worst of sinners, <hi>Tit.</hi> 2.11, 12. 1 <hi>Tim.</hi> 1.15. And assure thy self that Jesus Christ is more willing to save thee, than thou canst be desirous to be saved by him. Didst thou ever desire him to shed his <hi>blood</hi> for thee? Didst <hi>thou</hi> ever desire <hi>him</hi> to reveal the <hi>way of life to thee?</hi> Didst <hi>thou</hi> ever desire that <hi>he</hi> would send an <hi>invi<g ref="char:EOLhyphen"/>tation
+<pb n="17" facs="tcp:153758:20"/>to thee,</hi> to come <hi>to him and live?</hi> Yet all this <hi>he hath freely done,</hi> and now waits <hi>for thine acceptance;</hi> yea, <hi>he complains of the backwardness of poor sinners to come to him,</hi> saying, <hi>Ye will not come to me that ye may have life.</hi>
+                     <note place="margin">
+                        <hi>John</hi> 5.40.</note> O then accept of this salvation; accept of Jesus Christ upon his own terms: accept him to be thy Sovereign and thy Saviour, and so trust in him, and rest upon him a<g ref="char:EOLhyphen"/>lone for thy salvation. Say, <hi>Ah Lord Jesus, I am a poor lost sinner, that cannot possibly save my self, but if thou wilt thou canst save me. Behold, Lord, I am willing to take thee upon thine own terms; to do, to be done with, and disposed of in every thing as seems good unto thee; onely have mercy upon me, and save my precious immortal soul. Save me, O save me, Lord Jesus I perish.
+<note place="margin">1 <hi>Tim.</hi> 1.15.</note> Thou camest into the world to save sinners of whom I am chief, And therefore behold I cast my self upon thee, I put my whole trust in thee; I rest upon thee alone for my salvation.</hi> Act faith thus on Jesus Christ, and thou shalt be un<g ref="char:EOLhyphen"/>doubtedly saved; for faith will unite thy soul to Christ;
+<note place="margin">
+                        <hi>Col.</hi> 3.3, 4.</note> and so shall <hi>thy life be hid with Christ in God; and then when Christ who is thy life shall ap<g ref="char:EOLhyphen"/>pear, thou shalt appear with him in glory.</hi> And thus mayst thou secure the life of thy soul.</p>
+                  <p>Q. 2. <hi>But seeing a man may presume and perish, how may I be assured, upon an undeceiving ground, that my soul shall be saved?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Though a man <hi>may presume and perish,</hi> yet tis certain, <hi>He that believeth shall be saved,</hi> Mark 16.16. <hi>John</hi> 3.16. And therefore having acted faith on Christ, as before, <hi>Reflect</hi> upon that act, and remember the promise of salvation made to
+<pb n="18" facs="tcp:153758:21"/>every Believer. Say thus then with your self, I am assured Jesus Christ came to save sinners: I know I am a lost sinner, and cannot save my self. I have no hope of salvation by any but Christ. I wholly relie upon him alone for my salvation. In him I believe, in him I trust, through him only I hope for life eternal.
+<note place="margin">
+                        <hi>Mat.</hi> 16.16.</note> Now I know God hath pro<g ref="char:EOLhyphen"/>mised <hi>salvation and life eternal to every one that be<g ref="char:EOLhyphen"/>lieveth in him.</hi>
+                     <note place="margin">
+                        <hi>Iohn</hi> 3.16.</note> Doubtless God will perform his promise. Happy then am I, my soul shall be sa<g ref="char:EOLhyphen"/>ved: I shall inherit eternal life: I shall at length see my Saviour in glory; <hi>Come then Lord Jesus, O come quickly.</hi>
+                     <note place="margin">
+                        <hi>Rev.</hi> 22.20.</note>
+                  </p>
+                  <p n="3">3. Work. <hi>So live, as one that ever looks when he shall die.</hi>
+                     <note place="margin">
+                        <hi>Mark</hi> 13.34, 35, 36.</note> Demean your self so, as one that is in continual expectation of his <hi>Lords coming. Watch ye therefore</hi> ('tis our Saviours charge to his Disci<g ref="char:EOLhyphen"/>ples) <hi>because ye know not the time when your Lord will come; whether at Even, or at Midnight, or at the Cock crowing, or in the Morning; Watch therefore, lest coming suddenly, he find you sleeping.</hi> If you be found asleep in sin, you'l awake in the flames of hell. Rowze your selves therefore from the sleep of sin and sloth, to the work of grace and godliness. So spend every day and hour, as if it were the last you should ever spend. So per<g ref="char:EOLhyphen"/>form every Religious Duty, as if it were the last you should ever perform. So enjoy every com<g ref="char:EOLhyphen"/>fort, as if it were the last earthly comfort you should ever enjoy.
+<note place="margin">
+                        <hi>Col.</hi> 3.1, 2. 1 <hi>Iohn</hi> 1.3.</note>
+                     <hi>Set your hearts and affections upon things above.</hi> Be much in <hi>communion with God and Christ.</hi> So demean your self, as being al<g ref="char:EOLhyphen"/>wayes under Gods eye. Keep a continual watch
+<pb n="19" facs="tcp:153758:21"/>over your Heart, Words, and Wayes; Be very careful to avoid whatsoever may be offensive to God; study in every thing you do, to please and honour him. In a word, so live on earth, as if you were already in Heaven. So shall you by death enter into life eternal. For, saith the Lord, <hi>To him that ordereth his conversation aright,
+<note place="margin">
+                           <hi>Psal.</hi> 50.23.</note> will I shew the salvation of God.</hi>
+                  </p>
+               </div>
+               <div n="5" type="duty">
+                  <head>The Fifth Duty.</head>
+                  <p>
+                     <hi>PAtiently bear your afflictions and restraint.</hi> 'Tis Gods hand that is upon you; 'tis his Vi<g ref="char:EOLhyphen"/>sitation that is the cause of your confinement. When God <hi>speaks</hi> by way of rebuke (in his holy Providence) it becomes man to be <hi>silent:</hi> When God <hi>corrects,</hi> his Child must not complain. <hi>Da<g ref="char:EOLhyphen"/>vid</hi> in this case, by a holy silence, exprest his humble submission.
+<note place="margin">
+                        <hi>Psal.</hi> 39.9.</note>
+                     <hi>I was dumb</hi> (saith he) <hi>I opened not my mouth; because thou didst it.</hi> consider your own <hi>sin</hi> (you suffer no more than you deserve:) and Gods <hi>soveraignty</hi> (he may punish you as he pleases) and so patiently bear his hand, and qui<g ref="char:EOLhyphen"/>etly submit to his will. Think not by your own strength to break Gods bands: neither repine at your restraint, which is for the publique safety. Murmur not against men, lest it displease the Lord. Your <hi>liberty</hi> might be the loss of others <hi>lives.</hi> The <hi>Publique good</hi> and <hi>safety,</hi> is to be pre<g ref="char:EOLhyphen"/>ferred before the <hi>Private Benefit</hi> of particular per<g ref="char:EOLhyphen"/>sons or families. Know, though you are <hi>shut up,</hi>
+                     <pb n="20" facs="tcp:153758:22"/>God is not <hi>shut out:</hi> He that hath visited you, is present with you. On then be sensible of your sins, as the cause of your sufferings; and prefer the freedom or communion with God, infinitely be<g ref="char:EOLhyphen"/>fore the comfort of society with men. 'Twas the sense of his presence,
+<note place="margin">
+                        <hi>Act.</hi> 16.25.</note> that made <hi>Paul</hi> and <hi>Silas</hi> to <hi>sing in Prison.</hi> His presence will turn a Prison into a Paradise. Say then, with the Prophet, <hi>There<g ref="char:EOLhyphen"/>fore I will look unto the Lord:
+<note place="margin">
+                           <hi>Mic.</hi> 7.7, 8, 9.</note> I will wait for the God of my salvation: my God will hear me. When I sit in darkness the Lord shall be a light unto me. I will bear the indignatinn of the Lord, because I have sinned against him.</hi>
+                  </p>
+                  <p>Know and confider, by your sins you have long since forfeited your lives to the divine justice. A<g ref="char:EOLhyphen"/>las! Its of Gods mercy you are not now in Hell. And should you then complain of Gods Visitation and your Confinement? <hi>Wherefore doth a living man complain</hi> (or <hi>murmur) a man for the punish<g ref="char:EOLhyphen"/>ment of his sins?</hi>
+                     <note place="margin">
+                        <hi>Lam.</hi> 3.39.</note> Rather say, in the sense of your deserts,
+<note place="margin">vers. 22.</note>
+                     <hi>It is of the Lords mercies we are not con<g ref="char:EOLhyphen"/>sumed, because his compassions sail not.</hi> When by reason of your confinement you cannot enjoy the comforts of life, observe the counsel of our Savi<g ref="char:EOLhyphen"/>our,
+<note place="margin">
+                        <hi>Mat.</hi> 21.19.</note>
+                     <hi>In your patience possess ye your souls.</hi> Through Patience in your affliction, you I have that experi<g ref="char:EOLhyphen"/>ence of Gods Love, that will both sweeten your sufferings, and insure your salvation. Hence, saith the Apostle, in the name of suffering Saints, <hi>We rejoyce in hope of the glory of God.
+<note place="margin">
+                           <hi>Rom.</hi> 5.2,-5.</note> And not only so, but we glory in tribulations also, knowing that tri<g ref="char:EOLhyphen"/>bulation worketh patience; and patience experience; and experience hope; And hope maketh not ashamed,
+<pb n="21" facs="tcp:153758:22"/>because the love of God is shed abroad in our hearts, by the holy Ghost, which is given unto us.</hi> Happy are you, if you reap this fruit from your afflictions. 'Tis by Patience you may in a sort accomplish im<g ref="char:EOLhyphen"/>possibilities, hereby you may gather <hi>Grapes from Thorns, and Figgs from Thistles.</hi> Hereby you may fetch <hi>water</hi> out of the <hi>Flinty Rock,</hi> and <hi>Wine</hi> out of the barren <hi>Wilderness.</hi> Hereby you may receive the sweetest refreshing comforts, from the saddest and sharpest afflictions. Divine patience is a hea<g ref="char:EOLhyphen"/>venly <hi>Limbeck,</hi> by which you may distil the sweet<g ref="char:EOLhyphen"/>est waters from the bitterest herbs,</p>
+                  <p>Moreover know 'tis your special duty and con<g ref="char:EOLhyphen"/>cernment to <hi>glorifie God in the day of your Visita<g ref="char:EOLhyphen"/>tion.</hi> And this you must do by a penitent confessi<g ref="char:EOLhyphen"/>on of your sins, a patient bearing of your suffer<g ref="char:EOLhyphen"/>ings, and a pious improvement of them for your spiritual advantage.</p>
+               </div>
+               <div n="6" type="duty">
+                  <head>The Sixth Duty.</head>
+                  <p>
+                     <hi>PIously improve the time of your Visitation.</hi> Spend not this precious time (which is the space which lies betwixt you and eternity) in a <hi>stupid sorrow, and fruitless lamentations.</hi> But set your self seriously upon those <hi>Exercises of piety,</hi> which may conduce to your present comfort, and future happinesse. Be much in <hi>Reading</hi> the Scrip<g ref="char:EOLhyphen"/>tures, and other good Books, in <hi>Meditation</hi> and <hi>Prayer.</hi>
+                  </p>
+                  <pb n="22" facs="tcp:153758:23"/>
+                  <p> You are now restrained from the <hi>publique Ordi<g ref="char:EOLhyphen"/>nances;</hi> Be sensible of your sin in neglecting them, or not improving them as you might and ought, for your souls good. You may never pos<g ref="char:EOLhyphen"/>sibly hear one Sermon more, or joyn with the publique Congregation in one solemn Prayer. Oh therefore be so much the more serious in your <hi>private</hi> and <hi>personal duties</hi> and <hi>devotions.</hi>
+                  </p>
+                  <p n="1">1. <hi>Diligently, and Reverently read the holy Scriptures.</hi> When you take up that blessed book into your hand, lift up your heart to God, and secretly say, <hi>Let thy good Word O Lord, do my soul good. O let thy</hi> Spirit <hi>so guide me in thy Word, that I may find some comfort for my poor soul. Oh warm my heart by thy good spirit, that it may re<g ref="char:EOLhyphen"/>ceive impression by thy holy word. Good Lord, make it effectual for my salvation. Oh let it be as</hi> physick <hi>to cure the Plague of sin in my soul, and as</hi> food <hi>to nourish me to life eternal.</hi> Amen, Amen.</p>
+                  <p>The whole Scripture is excellent and useful, yet some <hi>Portions</hi> thereof may be more <hi>proper</hi> in the present Case.</p>
+                  <p>Such are the <hi>Book of Job,</hi> the <hi>Psalms of David;</hi> the <hi>Lamentations of Jeremiah;</hi> Also the <hi>Prophe<g ref="char:EOLhyphen"/>cies of Hosea, Joel,</hi> and <hi>Amos;</hi> And the <hi>Epistles of Saint James, Peter,</hi> and <hi>John:</hi> More particu<g ref="char:EOLhyphen"/>larly,</p>
+                  <p>Read the Law of God, or Ten Command<g ref="char:EOLhyphen"/>ments, contained in the twentieth Chapter of <hi>Exodus,</hi> that in the <hi>Glass of Gods Law,</hi> you may behold those sins whereby you have provoked the pure eyes of his glory.</p>
+                  <pb n="23" facs="tcp:153758:23"/>
+                  <p> Read the 26. Chapter of <hi>Leviticus,</hi> wherein you may see the Judgements which God hath de<g ref="char:EOLhyphen"/>nounced against men for disobedience.</p>
+                  <p>Read <hi>Numbers</hi> chap. 16. and 26. where you may see what particular sins God hath punished with the <hi>Plague.</hi> Read <hi>Deut.</hi> 30. wherein <hi>life</hi> and <hi>death</hi> are set before you, and tendred to your choice. Read <hi>Josh.</hi> 24. wherein you have <hi>Jo<g ref="char:EOLhyphen"/>shna's Proposal,</hi> and the peoples <hi>Resolution</hi> to serve the Lord. Read <hi>Nehem.</hi> 9. wherein you have a large confession of <hi>Gods goodness,</hi> and mans <hi>wick<g ref="char:EOLhyphen"/>edness.</hi> Read <hi>Job</hi> 14. wherein you have an account of the shortness of <hi>mans life,</hi> and the certainty <hi>of his death,</hi> which yet shall not come before Gods <hi>appointed time.</hi>
+                  </p>
+                  <p>Many of the Psalms are very excellent, season<g ref="char:EOLhyphen"/>able and suitable, and therefore oft to be read. Such are the seven Penitential Psalms, <hi>viz.</hi> the 6, 32, 38, 51, 102, 130, 143. The Psalms oc<g ref="char:EOLhyphen"/>casioned by the Plague and Mortality in the time of <hi>Moses, Psal.</hi> 90. and in the dayes of <hi>David, Psal.</hi> 91. Such Psalms as contain the Saints Ad<g ref="char:EOLhyphen"/>dresses to God, and Demeanor in affliction; as the 22, 25, 28, 39, 42, 86, 88, 142. Such Psalms as declare the goodness of God to his Saints, up<g ref="char:EOLhyphen"/>on these Addresses and in these Afflictions; as the 16, 30, 31, 34, 40, 103, 106, 108, 116, 145. Such Psalms as shew the Saints Hope and Confi<g ref="char:EOLhyphen"/>dence in God in time of trouble; as the 23, 49, 62, 63, 85.</p>
+                  <p>Read <hi>Isaiah</hi> chap. 28. which is the <hi>Prayer</hi> of <hi>Hezekiah,</hi> when he was visited (as it is thought) with the <hi>Plague,</hi> and his <hi>Thanksgiving</hi> for his reco<g ref="char:EOLhyphen"/>very.</p>
+                  <pb n="24" facs="tcp:153758:24"/>
+                  <p> Read <hi>Jeremiah</hi> 19. chap. representing the sad state of a sinsul people, when God comes to pu<g ref="char:EOLhyphen"/>nish them with the <hi>Sword, Famine</hi> and <hi>Pesti<g ref="char:EOLhyphen"/>lence.</hi>
+                  </p>
+                  <p>Read <hi>Ezekiel</hi> 33. chap. wherein God promi<g ref="char:EOLhyphen"/>seth <hi>Mercy</hi> to the penitent, and denounceth judge<g ref="char:EOLhyphen"/>ment against the disobedient.</p>
+                  <p>And seeing you are now deprived of the happy opportunities of hearing Sermons, read our Savi<g ref="char:EOLhyphen"/>ours Sermon in the Mount, <hi>Matth.</hi> 5, 6, 7. chap.</p>
+                  <p>Read the 14, 15, 16, 17. chapters of St. <hi>John,</hi> wherein our Saviour comforteth his Disciples (and in them all Believers) against the troubles of the world, and commends them by prayer into the hands of God.</p>
+                  <p>Read the 24. and 25. chapters of St. <hi>Matthew,</hi> wherein our Saviour describes the <hi>Day of Judge<g ref="char:EOLhyphen"/>ment,</hi> and gives direction for our duty and carri<g ref="char:EOLhyphen"/>age, that we may with comfort and joy wait for his coming.</p>
+                  <p>Read the 15. chapter of the first Epistle to the <hi>Corinthians;</hi> wherein the <hi>Resurrection</hi> is descri<g ref="char:EOLhyphen"/>bed, for your comfort against the <hi>fear of Death.</hi>
+                  </p>
+                  <p>Read the 4. and 5. chap. of the second Epistle to the <hi>Thess.</hi> concerning our <hi>preparation</hi> for the co<g ref="char:EOLhyphen"/>ming of Christ.</p>
+                  <p>Read the three last Chapters of the <hi>Revelation</hi> concerning the <hi>Glory</hi> and Happiness of the Saints in Heaven.</p>
+                  <p>You may read as many of the forementioned Portions of Holy Scripture as you have leisure and opportunity, during your Confinement And
+<pb n="25" facs="tcp:153758:24"/>while you are Reading, remember this, <hi>God is speaking to you,</hi> and treating with you about the Concernments of your Soul and a better Life; and directing you in the true and only way for the certain and infallible Attainment of Eternal Life and Happiness. This is an excellent Improvement of your <hi>present Time,</hi> and Preparative for your <hi>future Eternity.</hi> But then,</p>
+                  <p n="2">2. <hi>Meditate seriously on those things which you read.</hi> Apply them to your own Soul. Labour to get your Heart duly affected with them. Oh la<g ref="char:EOLhyphen"/>bour to feel your Heart melt with <hi>Sorrow</hi> for those Sins which you discover in your self, and infla<g ref="char:EOLhyphen"/>med with <hi>Love</hi> to God, for his Mercy and Goodness to the Sons of Men. Labour to find a perfect <hi>Abhorrency</hi> of Sin planted in your Heart, and an affectionate <hi>Love</hi> to your Saviour. Oh say, shall I not <hi>hate</hi> Sin, which dishonours so good a God, and destroyes the Immortal Soul? Shall I not <hi>love</hi> my Saviour, who hath shed his Pretious Life-Blood for my Salvation? Labour to suck sweetness out of the Pretious Promises, and to fortifie your self against the <hi>Fears of Death,</hi> with the Hopes of Eternal Life.</p>
+                  <p n="3">3. <hi>Be frequent and fervent in Prayer.</hi> 'Tis the Apostles Rule, <hi>Is any among you afflicted?
+<note place="margin">
+                           <hi>Jam.</hi> 5.18.</note> let him pray.</hi> 'Twas a heavy Charge wherewith <hi>Eliphaz</hi> burthened <hi>Job,</hi> in his Affliction;
+<note place="margin">
+                        <hi>Job</hi> 15.4.</note>
+                     <hi>Thou castest off Fear, and restrainest Prayer before God.</hi> When the <hi>Hand</hi> of God is upon you, your <hi>Heart</hi> should be lift up to Him. When God is come to <hi>visit</hi> you with the Plague, its high time for you to <hi>return</hi> to him by Prayer. When <hi>Hezekiah</hi> found himself
+<pb n="26" facs="tcp:153758:25"/>sick,
+<note place="margin">
+                        <hi>Isa.</hi> 28.2, 3.</note> he presently betook himself to Prayer, and made his earnest supplication to God. Prayer is the best <hi>Preservative</hi> for the sound, the best <hi>Re<g ref="char:EOLhyphen"/>storative</hi> for the sick. Oh then, while you have yet Health and Strength, fall down upon your knees before God, and pour out your humble Sup<g ref="char:EOLhyphen"/>plications to Him, for the Pardon of your Sin, the Prevention of Sickness, and the Recovery of the Sick, if it be his good Will and Plea<g ref="char:EOLhyphen"/>sure.</p>
+                  <p>And in your Prayers, act <hi>Faith</hi> in Gods Pro<g ref="char:EOLhyphen"/>mises. Remember what our Blessed Saviour hath said for your Encouragement.
+<note place="margin">
+                        <hi>Mat.</hi> 21.22</note>
+                     <hi>All things whatsoe<g ref="char:EOLhyphen"/>ver ye shall ask in Prayer, believing, ye shall re<g ref="char:EOLhyphen"/>ceive.</hi> And (saith the Apostle) <hi>the Prayer of Faith shall save the sick, and the Lord shall raise him up; and if he have committed Sins, they shall be forgiven him.</hi>
+                     <note place="margin">
+                        <hi>Iam.</hi> 5.15, 16.</note> And therefore saith he, <hi>Confess your faults one to another, and pray one for another, that ye may be healed: The effectual fervent Prayer of a Righteous Man availeth much.</hi>
+                  </p>
+                  <p>And for a <hi>help to the weak</hi> in this Duty, I have hereunto added several <hi>Forms of Prayer,</hi> suited to this sad Occasion; as in the <hi>Second Part.</hi>
+                  </p>
+               </div>
+               <div n="7" type="duty">
+                  <head>The Seventh Duty.</head>
+                  <p>
+                     <hi>QƲietly wait upon God, with submission to his Will,
+<note place="margin">
+                           <hi>Iob</hi> 14.5. <hi>Psal.</hi> 68.20.</note> for the Issue of this Visitation.</hi> Know, He hath appointed the <hi>Bounds of Mans Life:</hi> and, to Him belong the <hi>Issues from Death.</hi>
+                     <pb n="27" facs="tcp:153758:25"/>Be sure then you shall not die an Hour, a Moment before your Time. The Day of your Death was prefixed in Gods Decree, before the Day of your Birth. God hath unchangeably appointed the <hi>Number of your Dayes,</hi>
+                     <note place="margin">
+                        <hi>Iob</hi> 7.1. and 21.23-26.</note> and the <hi>manner of your End.</hi> If your appointed Time be not yet come, He can and will deliver you from Death. But if your appointed Time be at hand, why should you be unwilling to die? Death is a <hi>Debt to Nature:</hi>
+                     <note place="margin">
+                        <hi>Heb.</hi> 9.27.</note> 'tis the <hi>common lot</hi> of all Men. If you must <hi>once</hi> die, why may you not as well <hi>now?</hi> Death is the beginning of the Saints Glory: 'tis the Day of their entrance upon an Eternal Inheritance. Was ever any sorry that he was so soon happy? Will the Heir to a great Estate, be sorry that the day is at hand, wherein he must enter upon his Inheri<g ref="char:EOLhyphen"/>tance? Can you imagine it possible that a Saint should be sorry that he is come so soon to Heaven? If you have therefore any well grounded evi<g ref="char:EOLhyphen"/>dence for Eternal Life (for the attainment where<g ref="char:EOLhyphen"/>of I have already directed you) you need not be afraid, and methinks you should not be unwilling to die. The World is <hi>a Stage of Labour, a Sea of Trouble, a Field of War.</hi> Can a Servant be sorry that his <hi>Work</hi> is ended, and he is dismissed to his <hi>Rest?</hi> Can the Seaman be sorry that his <hi>Voyage</hi> is finished, and he is arrived at his <hi>desired Haven,</hi> returned to his long-longed for Home? Can the Souldier be sorry that the <hi>Battel</hi> is ended, the Victory won, and he is called to receive his <hi>Reward,</hi> his Crown? And should a Christian be sorry that his Life is ended, and he is called, by death, to enter into Rest, to go home to his Fa<g ref="char:EOLhyphen"/>ther
+<pb n="28" facs="tcp:153758:26"/>in Heaven, and to receive from the hand of Christ a Crown of Eternal Glory? On then resign up your self into the hand of God, to be at his disposal, with a free submission to his will for life or death according to his appointment.</p>
+                  <p>Wait then quietly upon god, with submission to his will, and you shall <hi>see his salvation.</hi> He'l either give you your Life for a <hi>Prey,</hi> or make your Death an <hi>Advantage.</hi> Say then with the Prophet in his Lamentations.
+<note place="margin">
+                        <hi>Lam.</hi> 3.24, 25, &amp;c.</note>
+                     <hi>The Lord is my Portion, saith my Soul, therefore will I hope in him. The Lord is good unto them that wait for him, to the Soul that seeketh him. It is good that a man should both hope and quietly wait for the salvation of the Lord. It is good for a Man that he bear the yoke in his youth. He sitteth alone, and keepeth silence, because he hath born it upon him. He putteth his mouth in the dust, if so be there may be Hope. For the Lord will not cast off for ever. But though he cause grief, yet will he have compassion, according to the multitude of his mercies. For he doth not afflict willingly, nor grieve the Children of Men.</hi>
+                  </p>
+                  <p>This holy and gracious Carriage under Affliction and Confinement, will certainly be Crown'd with a happy and glorious Issue.</p>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <pb n="29" facs="tcp:153758:26"/>
+               <head>A Help for the Poor, That are Visited with the PLAGUE.</head>
+               <head>
+                  <hi>The Second Part.</hi> Exhibiting certain Forms of Meditati<g ref="char:EOLhyphen"/>on, Prayer and Praise, suited to the Beginning, Continuance and Issue of their Visitation.</head>
+               <div type="meditation">
+                  <head>
+                     <hi>A serious Self-Reflection, or Divine Soliloquy:</hi> Being, <hi>A Meditation suited to the state and condition of one that is shut up in a House visited with the</hi> Plague.</head>
+                  <p>HEre am I now shut up as <hi>Noah</hi> in the <hi>Arke;</hi> For the <hi>Deluge</hi> of Gods Wrath (provoked by the sins of men) is come, and Thousands are over whelmed by it. <hi>Noah</hi> was shut up for his
+<pb n="30" facs="tcp:153758:27"/>
+                     <hi>Preservation;</hi> but, perhaps, I am shut up for my <hi>Destruction:</hi> For (alas!) I have not, as I ought, <hi>walked with God;</hi>
+                     <note place="margin">
+                        <hi>Gen.</hi> 6.9</note> but rather <hi>after the course of this World.</hi>
+                     <note place="margin">
+                        <hi>Eph.</hi> 2.2.</note> I have rather fulfilled <hi>the lusts of the Flesh,</hi> than obeyed the Motions of Gods Spirit. Justly therefore may I expect rather to perish with the <hi>Wicked World,</hi> than to be preserved with <hi>Righte<g ref="char:EOLhyphen"/>ous Noah.</hi> The Lord alone knows whethe<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> I, or any within these walls shall ever go out aliv<gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>he good Lord fit us for that end and issue which he <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> appointed.</p>
+                  <p>How <hi>righteous is the LORD in all his w<gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> how holy in all his workes!</hi>
+                     <note place="margin">
+                        <hi>Psal.</hi> 145.17.</note> How just are his judge<g ref="char:EOLhyphen"/>ments! How plainly may I read Gods Justice in this my restraint! How fit a punishmen<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of my sins, is this confinement! I have sinned <hi>against Hea<g ref="char:EOLhyphen"/>ven,</hi>
+                     <note place="margin">
+                        <hi>Luke</hi> 15.21.</note> and am not worthy to behold it. I have pol<g ref="char:EOLhyphen"/>luted the <hi>Air</hi> by my sinful words, and am not wor<g ref="char:EOLhyphen"/>thy to breath in it. How justly is the benefit of the pure and free Air denyed me, who haue so pol<g ref="char:EOLhyphen"/>luted it by my impure speeches, <hi>corrupt Communi<g ref="char:EOLhyphen"/>cations!</hi>
+                     <note place="margin">
+                        <hi>Eph.</hi> 4.29</note> How justly is the Air, which was polluted by my sins, insected with the <hi>Plague!</hi> Have I not polluted it with Oaths and Curses, at least stained it with many vain and <hi>idle words,</hi> for which I must give <hi>account at the Day of Judgement!</hi>
+                     <note place="margin">
+                        <hi>Mat.</hi> 12.36.</note> I have desi<g ref="char:EOLhyphen"/>led the <hi>Earth,</hi> by walking in wayes of wickedness, and now I am utterly unworthy ever to tread more upon it. I have abused Gods <hi>Creatures,</hi> and there<g ref="char:EOLhyphen"/>fore justly may I be shut up from the use of them. Have I not sometimes forsaken mine own house, to go and sit in those houses where Gods creatures are too commonly abused, to his dishonour, by excess
+<pb n="31" facs="tcp:153758:27"/>and drunkenness? Have I not there heard the Name of God prophaned by Oaths and Curses? Have I not there seen the creatures of God abused? Yea, have not I sometimes both abused my self and them? How justly then doth God lay this restraint upon me, and shut me up in this confinement!</p>
+                  <p>How justly am I deprived of the <hi>Society of Men,</hi> who have taken more delight in it, than in <hi>Commu<g ref="char:EOLhyphen"/>nion with God!</hi> How oft have I neglected going to the <hi>House of God,</hi> and sate at home, while I might have attended his <hi>Holy Ordinances;</hi> and how justly am I now debarred that liberty, and shut up at home, in this sad confinement! Oh, how long have I sinfully neglected to receive that Blessed Sacra<g ref="char:EOLhyphen"/>ment of the <hi>Lords Holy Supper;</hi> and now the Lord gives me the <hi>Bread of Adversity, and the Water of Affliction,</hi> instead of that sacred <hi>Bread and Wine,</hi> the blessed Symbols of my Saviours Body &amp; Bloud! How oft have I prophaned that holy Ordinance by my unprepared participation, my unreverent receiving of it; and now how justly am I deprived of oppor<g ref="char:EOLhyphen"/>tunities to receive it! Alas! I may now never hearone Sermon more, never feast with Christ in his holy Supper more; never put up one prayer with the Church more; never have one tender of Grace and Salvation more in the Ministery of the Gospel. Yet, good God, do not shut the <hi>Gate of Salvation</hi> against me, oh do not shut me out of Heaven and Glory.</p>
+                  <p>Here am I now shut up in this <hi>House,</hi> and how justly may I be sent out of this House into <hi>Hell!</hi> Yea, what mercy is it I am not in Hell already! How oft have I by my sins provoked God to cast me into that <hi>fiery Prison!</hi> How many hath God cut off
+<pb n="32" facs="tcp:153758:28"/>in the very <hi>Act of Sin,</hi> and immediately cast them into Hell! Ah! I have cause to believe there are many thousands now in Hell-fire, who have never committed so many sins against God, as I have done; who have never lived so long as I to dishonour him. Oh, how great is his mercy, that I who am now shut up in this House, am not shut up in Hell, there to <hi>dwell with devouring fire, and to lie down in ever<g ref="char:EOLhyphen"/>lasting burnings!</hi> From this House there yet stands a way open to Heaven; but from Hell there is no redemption. The Lord grant I may so improve my precious <hi>Time</hi> in this House, that I may escape the cruel pains of the damned in Hell-fire, which last to <hi>Eternity.</hi>
+                  </p>
+                  <p>Here am I shut up in this House, and debarred from the Society of my dear Friends; but I am not excluded from the <hi>Presence of God:</hi> I am not a<g ref="char:EOLhyphen"/>bridged the Freedom of Communion with Him. The Lord fit me for, and refresh me with the com<g ref="char:EOLhyphen"/>fors of this Holy Communion. The <hi>Plague</hi> in this House cannot make me so <hi>miserable,</hi> as the Privi<g ref="char:EOLhyphen"/>ledge of Gods special gracious Presence may make me <hi>happy.</hi> O the Lord grant that I may so enjoy and improve his <hi>gracious Presence</hi> on Earth, that it may be to me a certain pledge of his <hi>glorious Pre<g ref="char:EOLhyphen"/>sence</hi> in Heaven.</p>
+               </div>
+               <div type="confession">
+                  <pb n="33" facs="tcp:153758:28"/>
+                  <head>The Penitents Confession of his sins, and Petition for Pardon.</head>
+                  <p>O Most High and Mighty, Great and Glori<g ref="char:EOLhyphen"/>ous Lord God, behold thy poor Creature humbly casts himself down at thy Foot-stool. My sins, I do humbly confess, are very many, and ex<g ref="char:EOLhyphen"/>ceeding great, that if thou wast not infinitely mer<g ref="char:EOLhyphen"/>ciful, I might justly be afraid to come into thy ho<g ref="char:EOLhyphen"/>ly presence. For what can such a vile sinner as I am, expect from such a holy and just God as thou art, but that thou shouldest spurn me from thy Foot<g ref="char:EOLhyphen"/>stool into Hell fire? But seeing, Lord, thou hast promised <hi>Mercy and Pardon</hi> to them that humbly <hi>confess their sins</hi> and heartily <hi>repent</hi> of them; I do here humbly present my self before thee, desiring freely to confess the sins which I have committed against thee.</p>
+                  <p>I have been, I confess, a sinner from the very womb, I was <hi>conceived and born in sin,</hi> and I have been a Trangressor of thy Holy Laws, in the whole course of my life. Those <hi>Good Duties</hi> which thou hast strictly commanded, I have sinfully neglected; and those <hi>great Evils</hi> which thou hast expresly for<g ref="char:EOLhyphen"/>bidden, I have customarily committed. I have not valued thy <hi>precious Promises,</hi> not regarded thy <hi>terrible Threatnings.</hi> Thy <hi>Mercies</hi> have not allured me to obedience, nor thy <hi>Judgements</hi> deterred me from sin. I have too eagerly pursued the <hi>Profits of the World,</hi> and the <hi>Pleasures of Sin;</hi> while I have wofully neglected the <hi>Service of God,</hi> and the <hi>Sal<g ref="char:EOLhyphen"/>vation of my soul.</hi> I have (alas!) too long lived
+<pb n="34" facs="tcp:153758:29"/>
+                     <hi>without God in the world;</hi> and therefore might I now die without any <hi>hope</hi> of future happiness. I have so demeaned my self, O Lord, as if I neither feared thine <hi>anger,</hi> nor desired thy <hi>favour;</hi> as if I neither feared <hi>Hell,</hi> nor desired <hi>Heaven;</hi> so that I might but satisfie my base lusts in this present life. And now, Lord, I humbly confess it might be just with thee to despise me in my affliction, and to re<g ref="char:EOLhyphen"/>ject me as an <hi>abominable thing</hi> for ever.</p>
+                  <p>Most justly, O Lord, mayest thou smite me with the <hi>Plague,</hi> and cut me off from the <hi>Land of the Living.</hi> For I must needs confess that I stand guilty before thee of those very <hi>sins,</hi> for which thou hast inflicted, or denounced that heavy <hi>Judgement.</hi> For I humbly confess, O Lord, that I have <hi>negle<g ref="char:EOLhyphen"/>cted thy Worship and Service</hi> both in publick and private. I have not so diligently attended on thy holy Ordinances, nor daily called upon thy holy Name, as I ought to have done. And herein I cannot excuse my self from the <hi>contempt of thy Com<g ref="char:EOLhyphen"/>mand;</hi> for I have not been ignorant that thou hast required these things from me. But, O Lord, I have not hearkened to the <hi>voice of thy Ministers,</hi> who have declared thy Will unto me, and in thy Name required my obedience. But though I have known thy Will, I have by an <hi>obstinate disobedience</hi> provoked thy wrath. And though thou hast some<g ref="char:EOLhyphen"/>times afflicted me by losses, crosses, and disappoint<g ref="char:EOLhyphen"/>ments, or laid thine hand upon me in sickness, I have not been sensible of my sins and thy displea<g ref="char:EOLhyphen"/>sure; neither have I been <hi>reclaimed by thy Corre<g ref="char:EOLhyphen"/>ctions.</hi> For when thou hast removed thy stroke from me, I have again <hi>return'd to</hi> the same course of <hi>folly</hi> and sin.</p>
+                  <pb n="35" facs="tcp:153758:29"/>
+                  <p> I have, I humbly confess, <hi>prophaned thy holy Ordinances,</hi> and shed the Blood of Christ in his Ho<g ref="char:EOLhyphen"/>ly Supper, by my unprepared approach to his Ta<g ref="char:EOLhyphen"/>ble, and unworthy receiving of that Blessed Sacra<g ref="char:EOLhyphen"/>ment of his Body and Blood.</p>
+                  <p>I have not so quickly depended upon thy holy Providence as I ought, with full contentment, with that portion of Creature-comforts which thou hast allotted me. I have been more apt to <hi>murmur at thy mercies,</hi> that they have been no greater, than to <hi>mourn</hi> for mine own sins, which have been so ex<g ref="char:EOLhyphen"/>ceeding great, and whereby I have made my self <hi>less than the least of thy mercies.</hi>
+                  </p>
+                  <p>And when others have been justly punished for their sins, I have been ready to <hi>murmur against the Ministers of thy Justice:</hi> so apt have I been to <hi>ju<g ref="char:EOLhyphen"/>stifie the wicked, and to condemn the just.</hi>
+                  </p>
+                  <p>I have been so far from mourning for the <hi>horrible and open uncleanness and whordoms</hi> of others, that I have been in a great measure guilty thereof, by en<g ref="char:EOLhyphen"/>tertaining the reports of that sin, whereby thy Name is dishonoured, and the Land polluted, with plea<g ref="char:EOLhyphen"/>sure and delight. Yea, Lord, I have defiled my own <hi>body</hi> with filthy lusts, my <hi>soul</hi> with filthy thoughts, affections, imaginations and delights.</p>
+                  <p>And here, O Lord, I do with a broken and bleeding heart bewail that grievous sin of
+<note n="*" place="margin">Here con<g ref="char:EOLhyphen"/>fess your special se<g ref="char:EOLhyphen"/>cret sin.</note> — to which I am so much inclined, and which I have so oft committed, to the wounding of my consci<g ref="char:EOLhyphen"/>ence, the defiling of my soul, and the dishonour of thy great Name. For this, O Lord, I might have been long since most justly damned; for this thou mightest have cut me off by a stroke from Heaven:
+<pb n="36" facs="tcp:153758:30"/>in the very <hi>act of this sin,</hi> thou mightest most justly have cut me off, and cast me into Hell. But seeing thou hast hitherto <hi>spared me;</hi> good Lord, do not now <hi>destroy</hi> me. Thou hast spared me when I have sinned against thee: oh do not destroy me, when (with an unfained sorrow for my sins) I do return unto thee.</p>
+                  <p>Behold, Lord, in a sense of my sins, I lie at thy feet, and I beg thy merey. I am grieved at my very heart that I have so grievously sinned against thee. <hi>I have done amiss,</hi> Lord, I have done amiss, but oh! through thy Grace, <hi>I will do so no more:</hi> no, I will never, never so dishonour thy Name, and provoke the pure Eyes of thy Glory, as I have here<g ref="char:EOLhyphen"/>tofore done. Oh therefore, good God, I do most humbly and earnestly beseech thee, for thy tender mercies sake, and for the merits of thy dear Son Jesus Christ, and of that precious Blood which he shed for sinners, have mercy upon me, have mercy upon me, in the free and full forgiveness of all my sins. <hi>Pardon</hi> me, O Lord, or I <hi>perish</hi> for ever. Oh save me from wrath, save me from Hell, through the remission of my sins, in the Blood of my Saviour Jesus Christ. Oh I am a poor <hi>lost Creature</hi> in my self, to him I flie, on him I do relie for my <hi>Salva<g ref="char:EOLhyphen"/>tion.</hi> Oh pardon my sins, wash them away in his blood, and save my soul.</p>
+                  <p>In him, O Lord, thou hast promised <hi>pardon</hi> to the truly <hi>penitent,</hi> and <hi>salvation</hi> to every one that <hi>be<g ref="char:EOLhyphen"/>lieves.</hi> Behold, O Lord, I do heartily repent me of my sins, I do stedfastly believe in my Saviour Jesus Christ; I put my whole trust in him, I give my self up to him, I desire in all things to be ru<g ref="char:EOLhyphen"/>led
+<pb n="37" facs="tcp:153758:30"/>by him. Oh then speak peace to my soul in this blessed assurance, that my sins are pardoned, and my soul shall be saved. This thou hastpromised, O Lord, I believe thy Promises are most faithful and true. <hi>Be it then to thy Servant according to thy Word.</hi>
+                  </p>
+                  <p>And now, O Lord, <hi>sanctifie me,</hi> I beseech thee, <hi>throughout</hi> by thy Spirit, and enable me by thy <hi>Grace,</hi> to conquer my <hi>Corruptions,</hi> and to keep thy <hi>Commandments.</hi> Oh write thy Laws in my heart, and enable me to expresse a conformity to them in my life. For while I live will I serve thee,
+<note place="margin">
+                        <hi>Psal.</hi> 104.33.</note>
+                     <hi>I will praise thy Name while I have my being.</hi> Oh grant that during that time, whether longer or shorter, which thou hast allotted me upon Earth, I may do the things that please thee, and then when thou shalt call me hence by death, oh receive my soul into glory, that I may for ever enjoy thee in Hea<g ref="char:EOLhyphen"/>ven. Grant this, O Lord, for the merits of thy dear Son, and my blest Lord and Saviour Jesus Christ: <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>A Prayer for one that is visited with the <hi>Plague,</hi> to be used by him in the be<g ref="char:EOLhyphen"/>ginning of his Sickness.</head>
+                  <p>O Lord, I have <hi>sinned,</hi> and thou hast <hi>smitten me.</hi> Now, now, Lord, do I feel the Tokens of thy <hi>Displeasure,</hi> and the Fore-runners of my <hi>Death,</hi> if thou do not save by thy Power, whom thou hast <hi>wounded</hi> in thy Justice. Thou hast smitten me, but behold, Lord, I do not <hi>flie</hi> from thee, but <hi>fall</hi> down before thee. I do not, oh I dare not
+<pb n="38" facs="tcp:153758:31"/>complain of thy <hi>stroke;</hi> I know it is just: but I la<g ref="char:EOLhyphen"/>ment my <hi>sin,</hi> an my sin; for it is exceeding great. Mercy, mercy, O Lord, I humbly beg on my bend<g ref="char:EOLhyphen"/>ed knees, for my <hi>body,</hi> for my <hi>soul.</hi> Have mercy on my soul, and forgive me my <hi>sins.</hi> Have mercy on my body, and heal my <hi>Sicknesse:</hi> On spare thy poor servant,
+<note place="margin">
+                        <hi>Psal.</hi> 3<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 10</note> and <hi>remove thy stroke from me,</hi> if it be thy good pleasure. All my folly, all my wick<g ref="char:EOLhyphen"/>edness,
+<note place="margin">
+                        <hi>Psal.</hi> 90.8.</note> O Lord, is known to thee. <hi>Thou hast set mine iniquities before thee, my secret sins in the light of thy countenance.</hi> On charge them not upon my soul to my condemnation, but wash them all away in the Blood of Christ. If by this stroke thou shalt put an end to my dayes, oh take me not away in my sins; do not, oh do not cast my sinful soul into Hell. But, O good God, have mercy upon me, even for Jesus Christs sake, have mercy upon me, in the <hi>forgiveness</hi> of my sins, and the <hi>salvation</hi> of my soul. I have sinned away my <hi>health;</hi> oh keep me from sinning in my <hi>sicknesse.</hi> Thou hast wounded my bo<g ref="char:EOLhyphen"/>dy, but oh keep me from wounding my own soul by sin. Let me not put <hi>poyson</hi> into mine own <hi>cup;</hi> let me not adde a <hi>sting</hi> to thy <hi>stroke,</hi> by mixing of sin with my sufferings. Keep me then, O keep me, good Lord (for I cannot keep my self) from all <hi>murmurring</hi> and <hi>impatience,</hi> from <hi>distraction</hi> and <hi>despair.</hi> Preserve my soul from the power of Satan, and the poyson of his <hi>temptations.</hi>
+                     <note place="margin">
+                        <hi>Eph.</hi> 6.16.</note> Give me that <hi>Shield of Faith, whereby I may quench all his fiery darts.</hi> Let my <hi>heart,</hi> to the last moment, be <hi>fix<g ref="char:EOLhyphen"/>ed,
+<note place="margin">
+                           <hi>Psal.</hi> 112.7. <hi>Job</hi> 19.21</note> trusting in the Lord,</hi> believing in Christ. Be<g ref="char:EOLhyphen"/>hold, Lord, I am weak and frail; <hi>Have pity upon me,</hi> O my God, <hi>have pity upon me, for thy hand
+<pb n="39" facs="tcp:153758:31"/>hath touched me. O spare me a little,
+<note place="margin">
+                           <hi>Psal.</hi> 39.13.</note> that I may re<g ref="char:EOLhyphen"/>cover strength, before I go hence, and be</hi> seen <hi>no more.</hi> I bless thee, O Lord that I have this <hi>breath<g ref="char:EOLhyphen"/>ing space;</hi> while I live will I breath after thee; and when I die, oh let me breath out my soul into thy bosome, that my <hi>last breath</hi> may, through thy grace and favour, waft my soul to a Land of Bliss and Glory. Now <hi>into thine hands, O Lord,
+<note place="margin">
+                           <hi>Psal.</hi> 31.5.</note> do I</hi> commit and <hi>commend my self,</hi> both body and <hi>soul;</hi> thou hast <hi>redeemed</hi> me, O thou God of my alva<g ref="char:EOLhyphen"/>tion. To thy will do I submit, whether for life or death. Oh by thy power let me be preserved unto <hi>life eternal.</hi> Grant, O grant this my humble and earnest suit, for the sake of thy dear Son, and my blessed Lord, and alone Saviour, Jesus Christ. <hi>Amen, Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>A <hi>Prayer to be read to one that lies sick of the</hi> Plague <hi>(if he be sensible) and by him to be repeated, Sentence after Sentence.</hi>
+                  </head>
+                  <p>
+                     <hi>First speak thus to the sick man;</hi> Lift up your heart to God, who hath laid his hand upon you, and say after me. <hi>Then repeat to him the following Prayer, Sen<g ref="char:EOLhyphen"/>tence by Sentence, as it is pointed.</hi>
+                  </p>
+                  <p>LORD, Look down upon me. I am a miserable sinner. I have broken thy Holy Laws. I have neglected thy
+<pb n="40" facs="tcp:153758:32"/>Service. I have prophaned thy Sab<g ref="char:EOLhyphen"/>baths. I have dishonoured thy Name. I have lived too much after mine own Lusts. I have abused thy Mercies. I have mispent my precious Time. I have not served thee, as I ought, in my Health. My sins have deserved this Sickness. My sins have provoked thy wrath. My fins do deserve Hell-Fire. But, O Lord, have mercy upon me. Give me true Re<g ref="char:EOLhyphen"/>pentance: And forgive me all my sins. I am heartily sorry for them. Oh give me a soft heart. Encrease my sorrow for my sins. Oh pardon them for Jesus Christ his sake. Wash me in his Blood. Cloath me with his Righteousness. San<g ref="char:EOLhyphen"/>ctifie me by his Grace. Save me through his Merit. Give me a lively Faith in Christ. <hi>Lord, I believe: Oh help my unbelief.
+<note place="margin">
+                           <hi>Mark</hi> 9.24. <hi>Luke</hi> 17.5.</note> Lord, encrease my Faith.</hi> Lord, give me Christ, or I die. Oh give me Christ before I die. Give me Christ, and I shall live for ever.</p>
+                  <p>Thou, Lord, hast cast me down: And thou canst raise me up. Oh pity and spare me. Remove thy stroke from me. Lord, Remove thy stroke from me. <hi>Re<g ref="char:EOLhyphen"/>deem my life from Destruction.</hi>
+                     <note place="margin">
+                        <hi>Psal.</hi> 103.4.</note> Renew my health and strength. Heal me, O
+<pb n="41" facs="tcp:153758:32"/>Lord, heal me. <hi>Yet not my will,
+<note place="margin">
+                           <hi>Luke</hi> 22.42.</note> but thine be done.</hi> Prepare me for Death. Pre<g ref="char:EOLhyphen"/>pare me for Heaven. Good God, receive my Soul in Death. Receive my Soul into Glory. Hear me, O Lord, for Jesus Christs sake. <hi>Amen.</hi>
+                  </p>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="prayer">
+                              <head>When he grows weaker, and nearer to his end, let him oft repeat these short Petitions.</head>
+                              <p>Lord, Have Mercy upon me. Good Lord, Pardon my sins.
+<note place="margin">
+                                    <hi>Lube</hi> 18.13. <hi>Acts</hi> 7.59.</note> For Christs sake save my soul. <hi>God be merciful to me a Sinner. Lord Jesus, Receive my Spirit.</hi> Amen.</p>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+               </div>
+               <div type="prayer">
+                  <head>
+                     <hi>A Prayer to be said by others, for one that is sick of the</hi> Plague.</head>
+                  <p>O LORD, Thou art <hi>righteous in all thy ways,
+<note place="margin">
+                           <hi>Psal.</hi> 145, 17.</note> and holy in all thy works.</hi> We thy poor ser<g ref="char:EOLhyphen"/>vants, do freely confess, that we justly deserve by our sins, the sorest of all thy judgements. Yea,
+<note place="margin">
+                        <hi>Lam.</hi> 3 22.</note>
+                     <hi>It is of thy mercies we are not all consumed, because thy compassions fail not. If thou, Lord,
+<note place="margin">
+                           <hi>Psal.</hi> 130.3.</note> shouldest mark iniquities, who can stand?</hi> If thou shalt con<g ref="char:EOLhyphen"/>tend with us, who are but <hi>dust and ashes,</hi> we must needs fall and perish.
+<note place="margin">
+                        <hi>Psal.</hi> 130.4.</note> But <hi>with thee there is mercy and forgiveness, that thou mayest be feared</hi> and ser<g ref="char:EOLhyphen"/>ved. Oh then in great mercy <hi>forgiven all our sins,
+<note place="margin">
+                           <hi>Psal.</hi> 103.3.</note>
+                        <pb n="42" facs="tcp:153758:33"/>and heal all our diseases.</hi>
+                     <note place="margin">
+                        <hi>Psal.</hi> 103.10.</note> Deal not with us after our deserts, neither <hi>reward us according to our Iniqui<g ref="char:EOLhyphen"/>ties.</hi> Look down we beseech thee, with an eye of special compassion upon thy poor sick servant. Oh pardon, and spare, and heal
+<note n="*" place="margin">Or <hi>her,</hi> if it be a wo<g ref="char:EOLhyphen"/>man.</note> him. Save him, O Lord, for thy great mercies sake. Ah Lord God! what is poor frail man, a poor, weak worm, that thou who art the Mighty God, shouldest contend with him? Oh let not thy Power oppress, but re<g ref="char:EOLhyphen"/>lieve thy poor Creature. Thou, O Lord, art <hi>a consuming fire,</hi>
+                     <note place="margin">
+                        <hi>Heb.</hi> 12.29.</note> and we are but withered stubble be<g ref="char:EOLhyphen"/>fore thee. But oh consume us not in thy wrath, but save us in thy mercy. Mercifully pardon thy poor servants sins, and then (if it be thy good pleasure) heal his sicknesse. Oh give him true <hi>repentance,</hi> and then seal him a gracious <hi>pardon.</hi> Let him so <hi>re<g ref="char:EOLhyphen"/>member</hi> his sins, as that thou mayest for ever <hi>forget</hi> them. Let him so <hi>mourn</hi> for his sins, that his Soul may <hi>rejoyce</hi> in the sense and assurance of the for<g ref="char:EOLhyphen"/>giveness of them. And, if it be thy good pleasure, O Lord, rescue thy servant from the Jaws of Death; renew his health and strength, and restore unto him the comforts of life. For, O Lord, <hi>the dead praise thee not;</hi>
+                     <note place="margin">
+                        <hi>Psal.</hi> 115.17. <hi>Psal.</hi> 38.17.18.</note> they that go down into the <hi>pit of corrup<g ref="char:EOLhyphen"/>tion,</hi> cannot declare thy power and goodness to the Sons of men. For thy Names sake, O Lord, save and deliver thy poor servant. However let the life of his soul be precious in thy sight. If thou hast appointed him to die, O Lord, prepare him for death. Oh sanctifie him throughout, that when his body shall drop into dust, his soul may ascend into glory. Prepare him, we beseech thee, for what<g ref="char:EOLhyphen"/>soever issue thou hast appointed to this Visitation.
+<pb n="43" facs="tcp:153758:33"/>Oh do not cut him off in his sins, do not shut him out of Heaven when he dies. But let the <hi>Blood of Christ cleanse him from all his sins,</hi>
+                     <note place="margin">1 <hi>John</hi> 1.7.</note> and through the merit of Christ let his soul be saved. Oh cause thy face to shine upon his soul, and refresh him with thy gracious comforts while he lives, and when he dies receive him into thy glorious King<g ref="char:EOLhyphen"/>dom. Lord hear our petitions in his behalf, for the sake of thy dearest Son, and our blessed Lord and Saviour Jesus Christ, in whose holy Name and Words we further call upon thee, saying,
+<q>
+                        <floatingText xml:lang="eng">
+                           <body>
+                              <div type="prayer">
+                                 <head>The Lords Prayer.</head>
+                                 <p>
+                                    <hi>Our Father, which art in Heaven;
+<note place="margin">
+                                          <hi>Mat.</hi> 6.9,-13.</note> Hal<g ref="char:EOLhyphen"/>lowed be thy Name. Thy Kingdom come. Thy will be done in Earth, as it is Heaven. Give us this Day our daily Bread: And forgive us our Trespasses, as we forgive them that trespass against us. And lead us not into Temptation, but deliver us from evil: For thine is the Kingdom, and the Power, and the Glory, for ever and e<g ref="char:EOLhyphen"/>ver.</hi> Amen.</p>
+                              </div>
+                           </body>
+                        </floatingText>
+                     </q>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>A short Prayer for one that lies at the very point of Death.</head>
+                  <p>LORD, look down in mercy upon thy poor Creature, and through the <hi>Terrours of Death</hi> carry his soul into the <hi>Triumphs of Life Eternal.</hi> Oh
+<pb n="44" facs="tcp:153758:34"/>help, help him, Lord, in his last extremity, and through the <hi>soorows and pangs</hi> of death, let his soul pass into the <hi>joys and pleasures</hi> of <hi>Paradise.</hi> O forsake him not, O Lord, in the very agonies of Death, in the last struglings of his soul, with the great enemy of his salvation. Rebuke <hi>Satan,</hi> that cruel and malicious <hi>Tempter,</hi> who is then ready to assault with the <hi>greatest strength,</hi> when thy poor creatures have the <hi>least power</hi> to resist him. He then strives in his <hi>malice</hi> to hurt and destroy, when we have most need of thy <hi>mercy</hi> to help and save. But let thy mercy, O Lord, be above Satans Malice. Let not the <hi>Evil Spirit</hi> touch the soul of thy poor dying servant, but let thy <hi>Holy Angels</hi> bear it up into <hi>Abraham's Bosome,</hi>
+                     <note place="margin">
+                        <hi>Luke</hi> 16.22.</note> into everlasting rest and joys. Oh wash his soul from all his sins, in his Sa<g ref="char:EOLhyphen"/>viours Blood, and sanctifie him throughout by thy Holy Spirit,
+<note place="margin">
+                        <hi>Jude</hi> v. 24.</note> that he may be <hi>presented faultless with exceeding great joy, before the presence of thy Glory.</hi> Oh finsh his combats in Death, and give him the <hi>Crown of Life.</hi>
+                     <note place="margin">
+                        <hi>Rev.</hi> 2.10.</note> Behold, thou hast brought him to the Gates of Death, thou hast set him upon the brink of Eternity; Oh open to him the Gates of Life, and let his Soul enter into Glory. Thou callest him hence, he must stay no longer here: <hi>Now,
+<note place="margin">
+                           <hi>Luke</hi> 2.29, 30.</note> Lord, Let thy Servant depart in peace,</hi> that his Soul may <hi>see thy salvation.</hi> O receive in mercy his departing soul to thy self in Glory. <hi>Into thine hand, O Lord we do commend his soul;</hi> O save him for thine infinite mercies sake, in Jesus Christ our Lord and onely Saviour. <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <pb n="45" facs="tcp:153758:34"/>
+                  <head>
+                     <hi>A Prayer to be used by him that is yet in Health, though shut up in a House Visited with the</hi> Plague.</head>
+                  <p>O Most Holy, Great, and Glorious Lord God, and in Jesus Christ, my most Merciful and lo<g ref="char:EOLhyphen"/>ving Father, I humbly and heartily thank thee, that thou hast been pleased hitherto to preserve me from this contagious and deadly Disease, <hi>the noysome Plague and Pestilence.</hi> My sins, I humbly consess, which have been greater than others, have deserved, that thou shouldest cut me off before others. But blessed be thy holy Name, thou hast given me a <hi>larger space of Repentance,</hi> and a longer time to pre<g ref="char:EOLhyphen"/>pare for thy Visitation, and my death: O give me grace to improve it, that I may not be surprised with <hi>Sickness,</hi> before I have throughly repented of my sins; nor be arrested by <hi>Death,</hi> before I am fit to die. I am, O Lord, I confess, a very great and grievous sinner; I have spent my time in much for<g ref="char:EOLhyphen"/>gerfulness of thee, and disobedience to thee: I have not so improved the blessed <hi>seasons of grace and sal<g ref="char:EOLhyphen"/>vation,</hi> as I might and ought to have done. And I now know not whether ever I shall enjoy another opportunity. Good Lord, forgive me this great neg<g ref="char:EOLhyphen"/>lect. I have wofully neglected the Duties of thy Worship and Service. I have not so diligently sought thy face in secret, as I ought to have done. I have too much walked after the sinful inclinations of my own heart, spending my <hi>precious time</hi> in folly, vani<g ref="char:EOLhyphen"/>ty, and sin. I have been too careless of the great con<g ref="char:EOLhyphen"/>cernments
+<pb n="46" facs="tcp:153758:35"/>of my soul, too regardless of my own sal<g ref="char:EOLhyphen"/>vation. But, O Lord God, I am heartily sorrowful for my sins, &amp; I humbly beseech thee, for the Lord Jesus Christ's sake, to forgive me all my offences. Oh, re<g ref="char:EOLhyphen"/>member them not against me; charge them not up<g ref="char:EOLhyphen"/>on me to my condemnation; but be thou fully Re<g ref="char:EOLhyphen"/>conciled to me in thy dear Son, Jesus Christ. And, O Lord God, I beseeth thee spare the life of thy poor Servant; preserve me from this deadly <hi>Disease,</hi> and prolong my life (if it be thy good will and plea<g ref="char:EOLhyphen"/>sure) that I may as much <hi>honour</hi> thee by my obedi<g ref="char:EOLhyphen"/>ence for the time to come, as I have <hi>dishonoured</hi> thee heretofore by my sins. I know, I confess, O Lord, that it were better for me to die, than to live in sin to the dishonour of thy Name, and my own deeper condemnation. I do not therefore desire to live, but that I may serve and glorifie thee. And there<g ref="char:EOLhyphen"/>fore, O Lord, if thou wilt graciously be pleased to spare the life of thy poor servant, I do <hi>solemnly pro<g ref="char:EOLhyphen"/>mise</hi> to devote my self to thy service all the rest of my dayes. If thou shalt spare my life, Oh give me grace faithfully to serve thee while I live, that my soul may be saved when I come to die. But if it shall please thee O Lord, to smite me with sickness, and by this deadly <hi>Disease</hi> to put an end to my dayes, Oh of thy great mercy forgive my sins, and save my soul. Prepare me therefore, O Lord, for <hi>Death,</hi> that if thou shalt continue me here, I may live more <hi>holy on earth;</hi> and if thou shalt take me hence, I may be <hi>for ever happy in heaven.</hi> To this end, Good Lord, seal up to my soul the <hi>pardon of my sins,</hi> and assure me of thy <hi>favour in Christ.</hi> San<g ref="char:EOLhyphen"/>ctify my sinful nature, and <hi>shed abroad thy love in
+<pb n="47" facs="tcp:153758:35"/>my heart by the Holy Ghost.</hi>
+                     <note place="margin">Rom. 5.5.</note> Give me a stedfast Faith in Christ Jesus, and a lively hope in thy mercy. Help me to conquer my own <hi>Corrupti<g ref="char:EOLhyphen"/>ons,</hi> and give me victory over Satans <hi>Temptations.</hi> Oh teach and enable me so to live in thy <hi>Fear,</hi> that I may die in thy <hi>Favour;</hi> so shall my <hi>Death be com<g ref="char:EOLhyphen"/>fortable,</hi> and my <hi>Resurrection joyful and glorious.</hi> And now, O Gracious God, and Merciful Father, I do humbly commit and <hi>commend</hi> my self <hi>Body and Soul</hi> into <hi>thy Hands:</hi> I do here humbly resign my self up wholly unto thee, to be at thy disposal, whether for life or death, beseeching thee to fit me for that is<g ref="char:EOLhyphen"/>sue which thou hast appointed, that if I shall live, I may live to thy glory; if I shall die, I may die in thy Favour, and so live with thee for ever in Glory.</p>
+                  <p>Thus Grant, Lord,
+<note place="margin">Rom. 14.8.</note> that <hi>living and dying I may be thine,</hi> and happy in thee for ever, through the Me<g ref="char:EOLhyphen"/>rits and Mediation of thy Dear Son, and my Bles<g ref="char:EOLhyphen"/>sed, and alone Saviour and Redeemer. <hi>A<g ref="char:EOLhyphen"/>men.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>A Prayer, to be used by some fit Person, with the Family visited with the <hi>Plague,</hi> both Morning and Evening.</head>
+                  <p>O Lord, the Great and Dreadful God,
+<note place="margin">Psal. 86.9. &amp; 125.18.</note> who art terrible in thy judgments, and yet <hi>rich in Mer<g ref="char:EOLhyphen"/>cy to all that call upon thee, who call upon thee in Truth.</hi> Vouchsafe, we humbly beseech thee, to look down upon thy poor unworthy Servants, who
+<pb n="48" facs="tcp:153758:36"/>do here humbly cast themselves down at thy Foot<g ref="char:EOLhyphen"/>stool, imploring thy Mercy towards them, in this their miserable extremity, in the prevailing Name and Mediation of thy dear Son, Jesus Christ. Our sins, O Lord, do testifie against us, and our <hi>Ini<g ref="char:EOLhyphen"/>quities are gone over our Heads;</hi>
+                     <note place="margin">Psal. 38.4.</note> they have long since reached unto Heaven, and provoked thy wrath and vengeance; and have now contributed to the procurement of this dreadful Visitation with the <hi>Plague</hi> and <hi>Pestilence.</hi> Here we are, O Lord, as <hi>Sheep shut up to the slaughter,</hi>
+                     <note place="margin">Psal. 44.22</note> as poor creatures set over to Death and Destruction, if thou be not more merciful to us. Justly we confesse, O Lord, mayest thou command thy destroying Angel to <hi>slay</hi> every one of us before thee, because we have eve<g ref="char:EOLhyphen"/>ry one of us grievously sinned against thee. But though we have <hi>received the Sentence of Death in our selves,</hi>
+                     <note place="margin">2 Cor. 1.9.</note> we know, if thou wilt, thou canst de<g ref="char:EOLhyphen"/>liver us. And to whom should we, poor crea<g ref="char:EOLhyphen"/>tures cry, in this our <hi>Misery,</hi> but to that God, who is infinite in <hi>Mercy?</hi> Have mercy upon us, O Lord, we beseech thee, have mercy upon us. Forgive us, O Lord, all our grievous sins, and preserve us from this mortal <hi>Sicknesse:</hi> Preserve us, O Lord, if it be thy good will and pleasure, that we may live to speak thy Praises, and to glorify thy great Name.</p>
+                  <p>We have, we humbly confesse, justly deserved this heavy Visitation, and sad confinement. For in the time of our <hi>Health and Liberty,</hi> we have not so remembred thee, to fear and serve thee as we ought; but by our sins and disobedience we daily provoked thee to anger. We have not, O
+<pb n="49" facs="tcp:153758:36"/>Lord, thus met daily together in our Health, to call upon thy Holy Name, and to seek thy Face by Prayer, and to give thee the praise of our Preser<g ref="char:EOLhyphen"/>vation, and of thy manifold Mercies. And therefore justly now mightest thou hide thy Face from us, and refuse to hearken to the Voice of our Supplications. But good Lord,
+<note place="margin">Mal. 3 7.</note>
+                     <hi>Return to us in Mercy,</hi> according to thy Promise; who do desire to <hi>return to thee</hi> in Duty, according to thy Com<g ref="char:EOLhyphen"/>mand.</p>
+                  <p>We confesse, Holy God, that our hearts are full of <hi>Corruption,</hi> and our lives have been full of <hi>Sin.</hi> We have broken all thy Holy Laws, in Thought, and Word, and Deed. We have more minded the <hi>World,</hi> than thee, our God; and have taken more care and pains for our poor, frail <hi>Body,</hi> than for our precious, Immortal <hi>Souls.</hi> We have been more afraid of <hi>Sicknesse,</hi> than of <hi>Sin;</hi> and have not so much desired <hi>Holinesse</hi> as <hi>Health.</hi> How justly may the evil that we fear, be brought upon us, seeing we have not been careful to do the <hi>Good,</hi> which was required from us! But, O Lord,
+<note place="margin">Psa. 103.10</note>
+                     <hi>Deal not with us after our sins, nor reward us according to our Iniquities.</hi>
+                  </p>
+                  <p>Our sins, we confesse, are many, and exceed<g ref="char:EOLhyphen"/>ing great. We have oft repeated the same sins, and multiplied our provocations. Hadst thou not, O Lord, been infinite in Patience, we had certain<g ref="char:EOLhyphen"/>ly perished through thy wrath incensed by our sins,
+<note place="margin">Lam. 3.22.</note> long before now, We must needs confesse, <hi>It is of the Lords mercy we are not all consumed, because his compassions fail not.</hi> For we have sinned against the <hi>Light</hi> that hath shone in thy Gospel, and the
+<pb n="50" facs="tcp:153758:37"/>
+                     <hi>Love</hi> that hath been manifested in thy Son. We have proceeded in sin, notwithstanding the <hi>Know<g ref="char:EOLhyphen"/>ledge</hi> of thy Commands, and the <hi>checks</hi> of our own Consciences: Yea, we have <hi>multiplied</hi> our sins against thee, as thou hast multiplied thy mercies upon us.
+<note place="margin">Rom. 2.4.</note> The <hi>Goodnesse, Patience, Forbearance, and Long-suffering of our God, which leads us to Re<g ref="char:EOLhyphen"/>pentance,</hi> hath not reclaimed us from our sins, nor perswaded us to an amendment of our lives. And now what can we expect but that the goodness of God, which we have despised, should forsake us; and that Patience and Forbearance, which hath been abused by us, should be turned into fury and indignation against us? But, good God, seeing thy goodness hath spared and preserved us, when we have rebelled against thee, Oh let not thy wrath be kindled against us, to consume and destroy us, when with unfeigned sorrow for our sins we return unto thee.</p>
+                  <p>For behold, O Lord, we beseech thee, our Hearts are grieved within us for our sins, and we do here humble our selves at thy feet for our pro<g ref="char:EOLhyphen"/>vocations, being willing even <hi>to put our mouths in the dust,
+<note place="margin">Lam. 3.29.</note> if there may be hope.</hi> O Lord, pity; O Lord, pardon; O Lord, spare us and save us for thy Mercy's sake. Oh do not destroy the work of thine own hands: Do not destroy thy poor crea<g ref="char:EOLhyphen"/>tures, who now cry for mercy to thee, when in the bitternesse of their souls they do bewail those sins, which they have committed against thee.</p>
+                  <p>Wherefore, O Lord, didst thou give thy dear<g ref="char:EOLhyphen"/>est Son to <hi>dye,</hi> but that poor sinners might <hi>live?</hi> Oh for the sake of the Lord Jesus Christ, and for
+<pb n="51" facs="tcp:153758:37"/>the Merit of that precious Blood, which he hath shed for the sins of the World, have Mercy up<g ref="char:EOLhyphen"/>on us in the free and full Remission of all our sins.</p>
+                  <p>And, O Lord, We beseech thee, so purify our Hearts by thy Grace, and sanctify our souls by thy Spirit, that we may <hi>loath</hi> the sins we have <hi>loved,</hi> and so <hi>turn from</hi> them all, to thee our God, as ne<g ref="char:EOLhyphen"/>ver to <hi>return to</hi> them more. Let thy Grace be in us so powerful a Principle of <hi>New-Obedience,</hi> that during the precious Remnant of our Dayes, we may so live, as those that are redeemed by Christ, <hi>Alive from the Dead,</hi> and Heirs of Glo<g ref="char:EOLhyphen"/>ry.</p>
+                  <p>
+                     <note n="*" place="margin">When there is none sick in the house, this must be o<g ref="char:EOLhyphen"/>mitted.</note> And now, O Lord, We humbly beseech thee, to pity thy poor
+<note n="†" place="margin">Or Ser<g ref="char:EOLhyphen"/>vants, if there be more than one Sick.</note> Servant, on whom thou hast laid thy Hand, in this heavy Visitation. Oh par<g ref="char:EOLhyphen"/>don
+<note n="*" place="margin">Or her, or their.</note> his sins, and speak Peace to his Conscience in the assurance of his pardon. Oh preserve him from Death, according to the <hi>greatness of thy Pow<g ref="char:EOLhyphen"/>er,</hi> or prepare him for a better life, according to the <hi>riches of thy Mercy.</hi> Oh when his soul shall leave his Body, let thy Holy Angels carry it up into Heaven, that his better Part may be with Christ in Paradise.</p>
+                  <p>And look down graciously, we beseech thee, upon us thy poor Servants, here at thy foot-stool, and prepare every one of us for that, which thou hast appointed to be the issue of this thy Visitation. Oh do not take any of us away in our sins: Do not send us hence into Hell-fire: But bring us out of our sins into our Saviour, and so <hi>preserve</hi> us by thy <hi>Power,</hi> through <hi>Faith</hi> in Christ, to <hi>life Eternal.</hi>
+                     <note place="margin">1 Pet. 1.5.</note>
+                     <pb n="52" facs="tcp:153758:38"/>Give us Patience, O Lord, to bear thy Hand, and Grace to submit to thy Will. And when thou shalt take us out of this life, Lord have Mercy on our Souls, and receive them to thy self in Glo<g ref="char:EOLhyphen"/>ry.</p>
+                  <p>Howsoever, O Lord, It shall please thee to deal with us, we beseech thee in great Mercy, remove this <hi>grievous Judgement</hi> from the Land. On say,
+<note place="margin">
+                        <gap reason="illegible: faint" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. 24.16 1 Chron. 21.27.</note>
+                     <hi>It is enough.</hi> Command the destroying An<g ref="char:EOLhyphen"/>gel to <hi>stay his Hand, and to put his Sword up into its sheath.</hi> Oh spare thy poor People. and deli<g ref="char:EOLhyphen"/>ver them from this dreadful destruction.</p>
+                  <p>Shew <hi>Favour,</hi> we pray thee, to all those who snew any <hi>Kindness</hi> to thy poor Servants in this their sad Visitation: Preserve their <hi>Persons,</hi> blesse their <hi>Estates,</hi> and save their <hi>Souls,</hi> who have <hi>lifted up their hearts</hi> in Prayer to God for us; and who have <hi>stretched out their hands</hi> to afford any relief and sup<g ref="char:EOLhyphen"/>port to thy poor Servants in this their afflicted and desolate Condition. Oh let that good, that kind<g ref="char:EOLhyphen"/>ness which we have received from any, for the sup<g ref="char:EOLhyphen"/>port and comfort of our bodies or souls, be retur<g ref="char:EOLhyphen"/>ned a <hi>Thousand-fold,</hi> into their own bosomes.</p>
+                  <p>And now, O Lord,</p>
+                  <div type="prayer">
+                     <head>In the Morning.</head>
+                     <p>We heartily bless thee, that thou hast kept us the Night past, and given us to see the Light of another Day. Thou mightest have made our <hi>Beds our Graves,</hi> and covered us in the darkness of the Night, with the <hi>shadow of Death.</hi> How many of thy poor People have this last Night, slept the <hi>sleep
+<pb n="53" facs="tcp:153758:38"/>of Death,</hi> never to awake more till the Day of Judgement! But thou hast raised us up again to the beginning of this day. Now, Lord, grant that we may live this day, as if it were the <hi>last Day</hi> we had to live, seeing we know not but it may. Keep us, we pray thee, from sin; and quicken us to e<g ref="char:EOLhyphen"/>very good Duty: Give us Grace to be <hi>ever well<g ref="char:EOLhyphen"/>doing,</hi> that when Christ shall come to call us hence, he may find us so doing,
+<note place="margin">Mat. 24.26, &amp; 25.21. Luk. 19.15.</note> and may say to every one of us, <hi>Well done, good and faithful servant; thou hast been faithful in a little, take possession of much: Enter thou into the joy of thy Lord.</hi> Grant this, O Lord, for the sake and merit of our onely Lord and Saviour Jesus Christ, In whose holy Name and Words, we further call upon thee, saying; <hi>Our Father, which art in Heaven,</hi> &amp;c.</p>
+                  </div>
+                  <div type="prayer">
+                     <head>In the Evening.</head>
+                     <p>We blesse thy Holy Name, that thou hast added one Day more unto our lives. Oh that as we are now one Day <hi>nearer to our Death,</hi> we were all something <hi>fitter to dye.</hi> Pardon, we beseech thee all the <hi>sins</hi> of this Day past: Do not remem<g ref="char:EOLhyphen"/>ber them against us, nor charge them upon us to our Condemnation. Wash them all away in the Blood of Christ, that they may be as if they had never been. We heartily bless thee for all the <hi>mer<g ref="char:EOLhyphen"/>cies</hi> we have this Day received; we <hi>are less than the least of them.</hi> We pray thee take us this Night into thy <hi>Tuition,</hi> and give us safety under <hi>the shadow of thy wings.</hi> Teach us, O Lord, so to lie down in our Beds, as in our Graves; &amp; so to compose ourselves to
+<pb n="54" facs="tcp:153758:39"/>sleep, as if we should no more wake till the Resur<g ref="char:EOLhyphen"/>rection of the dead.
+<note place="margin">Psal. 16.7.</note> Let <hi>our Reins instruct us in the Night season,</hi> and let our secret thoughts be sanctified and sweetned, by the inspirations and comforts of thy Holy Spirit.
+<note place="margin">Psal. 139.8.</note>
+                        <hi>When we awake, let us be still with thee.</hi> Let our first thoughts be sea<g ref="char:EOLhyphen"/>soned with a holy remembrance of our merciful preserver. If thou shalt adde another Day to our lives, grant that we may so spend it in thy Fear, and with such Diligence in every good Duty, that at the last we may give up <hi>our Accounts with joy.</hi>
+                     </p>
+                     <p>All this, with what ever else thou seest more needful for us than we can <hi>ask or think,</hi>
+                        <note place="margin">Eph. 3.20.</note> we hum<g ref="char:EOLhyphen"/>bly beg in the Name, and for the sake of the Lord Jesus Christ, our only Mediator and Advocate; to whom, with thy self, and holy Spirit, be all Honour and Glory, Dominion and Praise, Thanks<g ref="char:EOLhyphen"/>giving and Obedience, henceforth, and for ever<g ref="char:EOLhyphen"/>more. <hi>Amen.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="thanksgiving">
+                  <head>
+                     <hi>A Thanksgiving to be used by one recove<g ref="char:EOLhyphen"/>red of the</hi> Plague.</head>
+                  <p>O Lord, thou art wonderfully great and good, Life and death are in thy Hand. Thou hast Power to save and to destroy. Thou castest down into the Dust of Death, and again raisest up unto the liberty of life.
+<note place="margin">Ex. 15.11.</note>
+                     <hi>Who is like unto thee, O Lord, among the Gods? Who is like unto thee, Glorious in Holinesse, Fearful in Praises, Doing wonders? The Lord killeth,
+<note place="margin">1 Sam. 2.6.</note> and the Lord maketh alive: He bring<g ref="char:EOLhyphen"/>eth down to the Grave, and bringeth up again.</hi> Thou
+<pb n="55" facs="tcp:153758:39"/>art no lesse Glorious, O Lord, in thy <hi>Mercy,</hi> than Dreadful in thy <hi>Justice.</hi> Thou art able to destroy, yet ready to save. I thy poor Servant have had ex<g ref="char:EOLhyphen"/>perience of thy Power and goodnesse: Thou, O Lord, didst cast me down, and shew me my own sin and <hi>frailty;</hi> but thou hast raised me up, to manifest thy <hi>Power</hi> and <hi>Mercy.</hi> When I became <hi>vile</hi> in my own eyes, then was my life <hi>precious</hi> in thy sight. Thou layedst thy Hand upon me, and afflictedst me; I bore the Tokens of thy displea<g ref="char:EOLhyphen"/>sure; but <hi>thine Anger is tuned away,</hi>
+                     <note place="margin">Isa. 12.1.</note> thou hast removed thy stroke from me, and <hi>Comforted me.</hi> O Blessed, for ever Blessed be thy Holy Name.</p>
+                  <p>
+                     <hi>I said in the cutting off of my dayes,
+<note place="margin">Isa. 38.10, 11.</note> I shall go to the gates of the Grave: I am deprived of the residue of my Years. I said, I shall no more see the goodness of the Lord, in the Land of the Living. I shall be<g ref="char:EOLhyphen"/>hold Man no more, with the Inhabitants of the World, But thou hast in love to my Soul delivered it from the Pit of Corruption:
+<note place="margin">Isa. 38.17,-20.</note> For thou hast cast all my sins behind thy back. For the Grave cannot Praise thee, Death cannot celebrate thee: They that go down into the Pit cannot hope for thy Truth. The Living, the Living he shall Praise thee, as I do this Day: The Father to the Children shall make known thy Truth. The Lord was ready to save me; there<g ref="char:EOLhyphen"/>fore will I speak the Praises of my God all the dayes of my life.</hi>
+                  </p>
+                  <p>Thousands are cut off, and behold, I am preser<g ref="char:EOLhyphen"/>ved: What am I better than others, that I should be this Day alive, when so many Thousands are dead? Alas! by my sins I have justly deserved
+<pb n="56" facs="tcp:153758:40"/>to be swept away with the same Destruction. But the Lord hath taken pity on me, and my God hath preserved me. <hi>Blesse the Lord, O my soul, and all that is within me bless his holy Name. Bless the Lord, O my soul,
+<note place="margin">Psal. 103.1,-5.</note> &amp; forget not all his benefits, who forgiveth al thine Iniquities; who healeth all thy Diseases; who re<g ref="char:EOLhyphen"/>deemeth thy life from Destruction: Who crowneth thee with loving kindnesse and tender Mercies. Who satisfieth thy mouth with good things, so that thy youth is renewed like the Eagles.</hi>
+                  </p>
+                  <p>Now, Lord, seeing I live through thy <hi>Mercy,</hi> give me Grace to live to thy <hi>Glory.</hi> Help me to perform all my <hi>Vowes and Promises.</hi> Suffer me not to <hi>Relapse</hi> into my former sins. Teach me to live, as one that is alive from the dead. Enable me to honour thee by a <hi>Holy life;</hi> that when mine ap<g ref="char:EOLhyphen"/>pointed time is come,
+<note place="margin">Psal. 73.24.</note> I may die a <hi>Happy death. Guide me,</hi> O Lord, <hi>by thy Counsel, and afterwards receive me to Glory.</hi> So for all the goodnesse that thou hast shewed to thy Servant o<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Earth, I shall Eternally Praise thy Name in Heaven.</p>
+                  <p>And now, Lord, I lay mine <hi>Incense</hi> upon thine <hi>Altar.</hi> Let this my <hi>Prayer</hi> and <hi>Praise</hi> be accep<g ref="char:EOLhyphen"/>ted, through <hi>Jesus Christ,</hi> my only Lord, and Savi<g ref="char:EOLhyphen"/>our. <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="thanksgiving">
+                  <head>A Thanksgiving, to be used by one preser<g ref="char:EOLhyphen"/>ved from the <hi>Plague,</hi> in a House Visited.</head>
+                  <p>O Lord, my good God, What <hi>Praises</hi> can I render to thee, for my <hi>Preservation?</hi> When thine <hi>Arrowes have stuck fast in others,
+<note place="margin">Job. 6.4</note> and the poy<g ref="char:EOLhyphen"/>son
+<pb n="57" facs="tcp:153758:40"/>thereof hath drunk up their spirits;
+<note place="margin">Psal. 34.7. &amp; 91.11.</note> with Favour hast thou compassed me about, as with a Shield.</hi> Thy <hi>Holy Angels,</hi> the Executioners of thy Justice upon others, have surely been a <hi>Guard</hi> and a <hi>Defence</hi> to me. While the Noysome <hi>Plague</hi> hath preyed up<g ref="char:EOLhyphen"/>on others; thou hast <hi>sheltred me under thy Wings,
+<note place="margin">Psal. 91.4.</note> and covered me with thy Feathers.</hi> Oh blessed, blessed be thy Holy Name, for this singular speci<g ref="char:EOLhyphen"/>alty of thy Power and Goodness in my Preservati<g ref="char:EOLhyphen"/>on.</p>
+                  <p>My Sins, O Lord, as well as others, have provo<g ref="char:EOLhyphen"/>ked thy Wrath, and exposed me to the same dan<g ref="char:EOLhyphen"/>ger, to the same Disease, by which so many Thou<g ref="char:EOLhyphen"/>sands have perished. How great is thy Goodness, who when thou mightest in thy <hi>Justice</hi> have puni<g ref="char:EOLhyphen"/>shed me for my Sins, hast in thy <hi>Mercy</hi> preserved me from Destruction! When others have been <hi>consumed with the blow of thy Hand:</hi>
+                     <note place="margin">Psal. 39.10.</note> thou hast not so much as touched me with one <hi>Twig of thy Rod.</hi> When Hundreds have been continually grapling with the <hi>terrours of Death;</hi> thon hast still continu<g ref="char:EOLhyphen"/>ed to me the <hi>comforts of life.</hi> Thou hast made the <hi>House of Mourning and Death,</hi> to be as a <hi>San<g ref="char:EOLhyphen"/>ctuary of life and health</hi> to thy Servant. My Soul therefore shall glory in thy Goodness,
+<note place="margin">Psal. 63.5.</note>
+                     <hi>and my mouth shall praise thee with joyful lips.</hi>
+                  </p>
+                  <p>I called upon thee, O Lord, and thou heardest me: I put my trust in thee, &amp; thou hast preserved me. Death drew neer to me to devour me; the Grave opened its mouth wide to swallow me up: But the Lord hath delivered me from the stroke of Death; he hath delivered me from <hi>the hand of the Grave:</hi>
+                     <note place="margin">Psal 89.4<gap reason="illegible: blotted" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> Yea, the cruel Messenger of Death hath not touched
+<pb n="58" facs="tcp:153758:41"/>me; for the hand of the Lord hath kept me. I still looked to be cast down into a <hi>dying state;</hi> but behold î I am this day <hi>a living Monument</hi> of the Lords Mercy. The Lord hath kept me in the <hi>Val<g ref="char:EOLhyphen"/>ley of the shadow of death.</hi>
+                     <note place="margin">Psal. 23.4.</note> The Lord hath preser<g ref="char:EOLhyphen"/>ved my soul in Life.
+<note place="margin">Psal. 34.1.-7.</note>
+                     <hi>I will blesse the Lord at all times, his praise shall continually be in my Mouth. My Soul shall make her boast in the Lord, the hum<g ref="char:EOLhyphen"/>ble shall hear thereof and be glad. O magnifie the Lord with me, and let us exalt his Name together. I sought the Lord, and he heard me, and delivered me from all my fears.</hi>
+                  </p>
+                  <p>Now, O Lord, let the remembrance of thy mer<g ref="char:EOLhyphen"/>cy be ever sweet to my Soul. Make me sensible of that <hi>Obligation</hi> which thou hast here<g ref="char:EOLhyphen"/>by laid upon me to <hi>Obedience.</hi> I have been pre<g ref="char:EOLhyphen"/>served by thy <hi>Providence,</hi> and therefore solemnly do I devote my self to thy <hi>Service,</hi> My life is continued, or rather <hi>renewed</hi> by thy <hi>Goodness;</hi> and therefore doe I desire to <hi>dedicate</hi> all the rest of my dayes to <hi>thy Honour.</hi> Lord, teach me so to live, that <hi>my life</hi> may speak <hi>thy Praises:</hi>
+                     <note place="margin">Psal. 50.23</note> And prepare me so to <hi>Dye,</hi> that I may in death see <hi>thy Salvation.</hi> Accept, O Lord, this poor tribute of <hi>Praise,</hi> which I now render thee for <hi>my Preservation,</hi> and over<g ref="char:EOLhyphen"/>look the <hi>Ʋnworthiness</hi> of the person presenting it, for the <hi>Worthiness</hi> of the Person in whose Name I present it, Jesus Christ the Righteous, thy Dear Son, and my Blessed Saviour and Redeemer. <hi>A<g ref="char:EOLhyphen"/>men.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="corollary">
+               <pb n="59" facs="tcp:153758:41"/>
+               <head>A Corollary.</head>
+               <p>
+                  <hi>Now as you love your Soul, take heed that you live not in sin. You have escaped the</hi> Plague: <hi>But if you live in sin, you shall not escape</hi> Hell. <hi>Resolve then, by the</hi> Grace of God, <hi>to lead a</hi> New Life. <hi>Set up the</hi> Worship of God <hi>in your Family. Be constant in the</hi> Practice of true Piety <hi>in the whole course of your Con<g ref="char:EOLhyphen"/>versation. If you resolve (as you ought) so to do, I know further Directions for the</hi> Duties of Religion, and a Holy Life <hi>will be acceptable to you. And such are already extant in several excellent</hi> Treatises. <hi>I shall Commend Three of them to you, which are of such singular usefulness to quicken and direct men in the exercise of true Godliness, that I heartily wish eve<g ref="char:EOLhyphen"/>ry Family was furnished with them,</hi> viz. The Sincere Convert, <hi>by Mr.</hi> Shepheard. The Practise of Piety, <hi>by Dr.</hi> Bayly. The Rule of the New Creature, <hi>by Mr.</hi> Reynor. <hi>To these, those that are able may add,</hi> The Christian Mans Calling, <hi>by Mr.</hi> Swinnock. <hi>But above all, be much in reading the</hi> Holy Scriptures, which are able to make you wise to Salvation, <hi>and will infallibly direct you in the Way to Eternal Life.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_note">
+            <pb facs="tcp:153758:42"/>
+            <head>Several Books useful and necessary, Printed and sold by <hi>Peter Parker</hi> at the first Shop in <hi>Popes-head Alley</hi> next to <hi>Lombard-street;</hi> viz.</head>
+            <p>Mr. <hi>Cradocks</hi> Gospel Holiness, or a saving sight of God.</p>
+            <p>Dr. <hi>Harris</hi> his several Sermons in one Vol. 40.</p>
+            <p>Dr. <hi>Sibbs</hi> his Excellency of the Gospel above the Law; wherein is shewed the liberty of the Sons of God, with the Image of their graces here, and their glory hereafter.</p>
+            <p>The Fiery Pillar of Heavenly Truth, by <hi>Al. Grosse.</hi>
+            </p>
+            <p>A brief Discourse of Mans first and second State, by <hi>Robert Harris</hi> Dr. in Divinity.</p>
+            <p>Mr. <hi>Baxters</hi> Call to the Unconverted, to turn and live.</p>
+            <p>Mr. <hi>Baxters</hi> Three Treatises to awaken secure sinners, <hi>viz.</hi>
+            </p>
+            <p n="1">1. A Sermon of Judgement.</p>
+            <p n="2">2. The Danger of slighting Christ.</p>
+            <p n="3">3. True Christianity, or Christs absolute domini<g ref="char:EOLhyphen"/>on, and mans necessary self resignation to him.</p>
+            <p>A Trial of Faith, in several Sermons, by Mr. <hi>Ti<g ref="char:EOLhyphen"/>mothy Arnetage,</hi> late Pastor of a Congregation in <hi>Norwich.</hi>
+            </p>
+            <p>Mr. <hi>Dykes</hi> Right receiving of Christ.</p>
+            <p>St. <hi>Peters</hi> Enlargement in Praye, wherein are cer<g ref="char:EOLhyphen"/>tain Queries touching the Theory and Practice of Prayer.</p>
+            <p>The Saints Cordials, being a Collection of seve<g ref="char:EOLhyphen"/>ral Sermons by the Reverend Dr. <hi>Sibbs.</hi>
+            </p>
+            <p>
+               <hi>Israels</hi> Prayer, being an Exposition on <hi>Hosea,</hi> by <hi>Edward Reynolds</hi> Dr in Divinity.</p>
+            <p>
+               <hi>With many others not here named.</hi>
+            </p>
+            <pb facs="tcp:153758:42"/>
+            <pb facs="tcp:153758:43"/>
+            <pb facs="tcp:153758:43"/>
+         </div>
+      </back>
+   </text>
+</TEI>
